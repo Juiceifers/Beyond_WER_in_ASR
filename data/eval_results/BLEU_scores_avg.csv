@@ -1,0 +1,12 @@
+File,with_punct,without_punct
+EN2009c,38.77,38.14
+EN2009d,36.93,38.54
+ES2016a,43.61,49.07
+ES2016b,54.26,59.4
+ES2016c,49.96,55.11
+ES2016d,30.65,31.81
+,,
+,,
+avg,with punct,without punct
+ES,43.3925,46.2875
+EN,40.305,43.46

@@ -1,0 +1,74 @@
+---
+title: "Average Scores"
+author: "Ishana Rana"
+date: "`r Sys.Date()`"
+output: word_document
+---
+# Plotting the Average Scores for WER, BLEU, ROUGE-1, ROUGE-L, BERTScore
+
+```{r}
+
+df <- read.csv("C:/Users/babus/OneDrive/Documents/uni uzh/FS25/conversational speech processing/mypaper/Beyond-WER-in-ASR/data/eval_results/average_metric_scores.csv")
+
+png("C:\\Users\\babus\\OneDrive\\Documents\\uni uzh\\FS25\\conversational speech processing\\mypaper\\Beyond-WER-in-ASR\\data\\eval_results\\combined_average_scores.png", width = 1200, height = 600)
+
+layout(matrix(c(1, 2, 3, 3), nrow = 2, byrow = TRUE), heights = c(4, 1))
+par(mar = c(5, 5, 4, 2))  # slightly more space on left for larger labels
+
+metrics <- df$Metric
+es_vals <- as.matrix(df[, c("With_Punct_ES", "Without_Punct_ES")])
+en_vals <- as.matrix(df[, c("With_Punct_EN", "Without_Punct_EN")])
+
+colors <- c("darkorchid", "lightseagreen")
+legend_labels <- c("With Punctuation", "Without Punctuation")
+
+# ES Plot
+barplot(
+  t(es_vals),
+  beside = TRUE,
+  col = colors,
+  names.arg = metrics,
+  main = "ES Meetings",
+  ylim = c(0, 100),
+  las = 2,
+  cex.axis = 2,  # tick labels
+  cex.lab = 2,   # y-axis label (if used)
+  cex.main = 3.5,  # title
+  cex.names = 2  # bar group names (x-axis)
+)
+
+# EN Plot
+barplot(
+  t(en_vals),
+  beside = TRUE,
+  col = colors,
+  names.arg = metrics,
+  main = "EN Meetings",
+  ylim = c(0, 100),
+  las = 2,
+  cex.axis = 2,
+  cex.lab = 2,
+  cex.main = 3.5,
+  cex.names = 2
+)
+
+# Shared Legend at Bottom
+par(mar = c(0, 0, 0, 0))
+plot.new()
+legend("bottom", legend = legend_labels, fill = colors, horiz = TRUE, bty = "n", cex = 3)
+
+dev.off()
+
+
+```
+```{r}
+barplot(1:10, col = c("turquoise", "cyan", "aquamarine", "mediumturquoise",
+                      "lightseagreen", "mediumseagreen", "cadetblue",
+                      "darkcyan", "paleturquoise", "lightcyan"),
+        names.arg = c("turquoise", "cyan", "aquamarine", "mediumturquoise",
+                      "lightseagreen", "mediumseagreen", "cadetblue",
+                      "darkcyan", "paleturquoise", "lightcyan"),
+        las = 2)
+
+
+```

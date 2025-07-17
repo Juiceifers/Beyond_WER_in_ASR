@@ -1,0 +1,5 @@
+file,exact,partial,missed,spurious,precision,recall,f1
+ES2016a.ner.gold.txt,7,6,29,3,0.4815,0.1625,0.243
+ES2016d.ner.gold.txt,9,8,78,22,0.2208,0.0983,0.136
+ES2016c.ner.gold.txt,6,5,63,19,0.25,0.0679,0.1068
+ES2016b.ner.gold.txt,6,3,69,24,0.1429,0.057,0.0814

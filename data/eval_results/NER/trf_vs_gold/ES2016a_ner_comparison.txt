@@ -1,0 +1,53 @@
+📂 Comparing: ES2016a (TRF vs GOLD)
+
+✅ In GOLD but not in TRF (35):
+  Black -> [MISC]
+  Industrial Designer -> [PERSON]
+  International Remote Control Association -> [ORG]
+  Marketing Expert -> [PERSON]
+  Nick Debusk -> [PERSON]
+  Project Manager -> [PERSON]
+  User Interface Designer -> [PERSON]
+  ball -> [MISC]
+  ball -> [PRODUCT]
+  ball-shaped -> [MISC]
+  board -> [PRODUCT]
+  buttons -> [PRODUCT]
+  couple -> [CARDINAL]
+  cover -> [PRODUCT]
+  fifty million Euros -> [MONEY]
+  five minutes -> [TIME]
+  flat -> [MISC]
+  grip -> [PRODUCT]
+  half a year -> [TIME]
+  hinge -> [PRODUCT]
+  hinges -> [PRODUCT]
+  keyboard -> [MISC]
+  keyboard -> [PRODUCT]
+  lid -> [PRODUCT]
+  numbers -> [PRODUCT]
+  rectangle -> [MISC]
+  rectangular -> [MISC]
+  round -> [MISC]
+  sensor -> [PRODUCT]
+  sensors -> [PRODUCT]
+  sphere -> [MISC]
+  spherical -> [MISC]
+  thing -> [PRODUCT]
+  twenty five Euros -> [MONEY]
+  twenty five minutes -> [TIME]
+
+❌ In TRF but not in GOLD (7):
+  25 minutes -> [TIME]
+  Nick Tabusk -> [PERSON]
+  about 25 euros -> [MONEY]
+  about five minutes -> [TIME]
+  first -> [ORDINAL]
+  somewhere around 50 million euros -> [MONEY]
+  the International Remote Control Association -> [ORG]
+
+📊 Summary for ES2016a:
+  Total GOLD entities: 42
+  Total TRF entities:  14
+  Matching entities:   7
+  Total mismatches:    42

@@ -1,0 +1,18 @@
+📂 Comparing: ES2016a.Mix-Headset
+
+✅ In SM but not TRF (4):
+  Corinne Whiting -> [ORG]
+  a. Keyboard -> [PERSON]
+  about 25 -> [CARDINAL]
+  around 50 million -> [CARDINAL]
+
+❌ In TRF but not SM (3):
+  Corinne Whiting -> [PERSON]
+  about 25 euros -> [MONEY]
+  somewhere around 50 million euros -> [MONEY]
+
+📊 Summary for ES2016a.Mix-Headset:
+  Total SM entities:  15
+  Total TRF entities: 14
+  Matching entities:  11
+  Total mismatches:   7

@@ -1,0 +1,9 @@
+ROUGE-1 F1 Scores
+File,with_punct,without_punct,disfluencies_removed
+EN2009c,72.62,72.46,74.25
+EN2009d,70.98,71.65,72.67
+
+ROUGE-L F1 Scores
+File,with_punct,without_punct,disfluencies_removed
+EN2009c,37.84,37.45,38.37
+EN2009d,33.85,33.97,34.5

@@ -1,0 +1,1856 @@
+<?xml version='1.0' encoding='utf-8'?>
+<segments xmlns:ns0="http://nite.sourceforge.net/"><segment ns0:id="EN2009c.sync.4" channel="0" transcriber_start="4.384" transcriber_end="4.875">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words0)..id(EN2009c.A.words1)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.6" channel="0" transcriber_start="6.149" transcriber_end="6.596">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.8" channel="0" transcriber_start="11.068" transcriber_end="20.297">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words3)..id(EN2009c.A.words55)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.10" channel="0" transcriber_start="21.796" transcriber_end="45.272">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words56)..id(EN2009c.A.words144)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.12" channel="0" transcriber_start="47.549" transcriber_end="48.451">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words145)..id(EN2009c.A.words149)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.14" channel="0" transcriber_start="51.6" transcriber_end="52.629">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words150)..id(EN2009c.A.words151)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.16" channel="0" transcriber_start="57.771" transcriber_end="59.184">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words152)..id(EN2009c.A.words155)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.18" channel="0" transcriber_start="69.662" transcriber_end="70.525">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words156)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.20" channel="0" transcriber_start="82.04" transcriber_end="83.009">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words157)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.22" channel="0" transcriber_start="88.636" transcriber_end="89.829">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words158)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.24" channel="0" transcriber_start="90.202" transcriber_end="90.612">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words159)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.26" channel="0" transcriber_start="92.773" transcriber_end="93.22">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words160)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.28" channel="0" transcriber_start="95.516" transcriber_end="102.427">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words161)..id(EN2009c.A.words185)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.30" channel="0" transcriber_start="109.465" transcriber_end="149.92">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words186)..id(EN2009c.A.words374)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.32" channel="0" transcriber_start="158.72" transcriber_end="167.545">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words375)..id(EN2009c.A.words410)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.34" channel="0" transcriber_start="170.22" transcriber_end="171.589">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words411)..id(EN2009c.A.words414)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.36" channel="0" transcriber_start="174.656" transcriber_end="197.44">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words415)..id(EN2009c.A.words534)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.38" channel="0" transcriber_start="202.576" transcriber_end="208.924">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words535)..id(EN2009c.A.words567)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.40" channel="0" transcriber_start="216.306" transcriber_end="224.128">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words568)..id(EN2009c.A.words597)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.42" channel="0" transcriber_start="225.791" transcriber_end="232.264">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words598)..id(EN2009c.A.words627)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.44" channel="0" transcriber_start="234.005" transcriber_end="239.6">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words628)..id(EN2009c.A.words655)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.46" channel="0" transcriber_start="244.696" transcriber_end="245.451">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words656)..id(EN2009c.A.words659)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.48" channel="0" transcriber_start="251.584" transcriber_end="253.691">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words660)..id(EN2009c.A.words665)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.50" channel="0" transcriber_start="262.53" transcriber_end="285.21">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words666)..id(EN2009c.A.words787)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.52" channel="0" transcriber_start="300.276" transcriber_end="301.163">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words788)..id(EN2009c.A.words791)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.54" channel="0" transcriber_start="326.928" transcriber_end="330.005">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words792)..id(EN2009c.A.words797)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.56" channel="0" transcriber_start="334.764" transcriber_end="361.013">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words798)..id(EN2009c.A.words908)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.58" channel="0" transcriber_start="365.578" transcriber_end="389.056">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words909)..id(EN2009c.A.words1030)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.60" channel="0" transcriber_start="411.439" transcriber_end="411.794">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1031)..id(EN2009c.A.words1032)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.62" channel="0" transcriber_start="414.676" transcriber_end="416.294">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1033)..id(EN2009c.A.words1036)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.64" channel="0" transcriber_start="420.08" transcriber_end="435.039">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1037)..id(EN2009c.A.words1102)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.66" channel="0" transcriber_start="435.97" transcriber_end="436.641">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1103)..id(EN2009c.A.words1105)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.68" channel="0" transcriber_start="494.321" transcriber_end="495.303">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1106)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.70" channel="0" transcriber_start="497.694" transcriber_end="498.327">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1107)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.72" channel="0" transcriber_start="516.666" transcriber_end="522.22">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1108)..id(EN2009c.A.words1126)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.74" channel="0" transcriber_start="546.32" transcriber_end="548.103">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1127)..id(EN2009c.A.words1136)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.76" channel="0" transcriber_start="551.064" transcriber_end="564.146">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1137)..id(EN2009c.A.words1201)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.78" channel="0" transcriber_start="580.818" transcriber_end="581.116">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1202)..id(EN2009c.A.words1203)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.80" channel="0" transcriber_start="583.277" transcriber_end="591.594">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1204)..id(EN2009c.A.words1254)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.82" channel="0" transcriber_start="595.808" transcriber_end="600.819">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1255)..id(EN2009c.A.words1289)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.84" channel="0" transcriber_start="603.83" transcriber_end="612.709">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1290)..id(EN2009c.A.words1307)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.86" channel="0" transcriber_start="698.768" transcriber_end="699.215">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1308)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.88" channel="0" transcriber_start="740.535" transcriber_end="740.759">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1309)..id(EN2009c.A.words1310)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.90" channel="0" transcriber_start="754.751" transcriber_end="756.38">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1311)..id(EN2009c.A.words1319)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.92" channel="0" transcriber_start="781.824" transcriber_end="783.066">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1320)..id(EN2009c.A.words1322)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.94" channel="0" transcriber_start="794.553" transcriber_end="796.928">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1323)..id(EN2009c.A.words1334)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.96" channel="0" transcriber_start="804.784" transcriber_end="805.099">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1335)..id(EN2009c.A.words1336)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.98" channel="0" transcriber_start="806.068" transcriber_end="806.416">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1337)..id(EN2009c.A.words1338)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.100" channel="0" transcriber_start="810.351" transcriber_end="811.823">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1339)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.102" channel="0" transcriber_start="823.872" transcriber_end="831.231">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1340)..id(EN2009c.A.words1370)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.104" channel="0" transcriber_start="833.152" transcriber_end="834.352">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1371)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.106" channel="0" transcriber_start="856.08" transcriber_end="856.944">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1372)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.108" channel="0" transcriber_start="860.3" transcriber_end="861.072">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1373)..id(EN2009c.A.words1374)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.110" channel="0" transcriber_start="869.783" transcriber_end="881.082">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1375)..id(EN2009c.A.words1427)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.112" channel="0" transcriber_start="910.9" transcriber_end="911.293">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1428)..id(EN2009c.A.words1429)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.114" channel="0" transcriber_start="984.515" transcriber_end="984.985">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1430)..id(EN2009c.A.words1431)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.116" channel="0" transcriber_start="1199.258" transcriber_end="1199.78">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1432)..id(EN2009c.A.words1433)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.118" channel="0" transcriber_start="1241.106" transcriber_end="1241.596">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1434)..id(EN2009c.A.words1435)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.120" channel="0" transcriber_start="1246.251" transcriber_end="1255.632">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1436)..id(EN2009c.A.words1481)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.122" channel="0" transcriber_start="1279.258" transcriber_end="1290.718">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1482)..id(EN2009c.A.words1548)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.124" channel="0" transcriber_start="1293.785" transcriber_end="1294.15">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1549)..id(EN2009c.A.words1550)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.126" channel="0" transcriber_start="1300.506" transcriber_end="1302.56">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1551)..id(EN2009c.A.words1556)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.128" channel="0" transcriber_start="1326.877" transcriber_end="1327.368">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1557)..id(EN2009c.A.words1558)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.130" channel="0" transcriber_start="1333.808" transcriber_end="1338.838">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1559)..id(EN2009c.A.words1584)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.132" channel="0" transcriber_start="1347.408" transcriber_end="1347.857">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1585)..id(EN2009c.A.words1586)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.134" channel="0" transcriber_start="1349.232" transcriber_end="1350.256">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1587)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.136" channel="0" transcriber_start="1352.824" transcriber_end="1353.67">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1588)..id(EN2009c.A.words1589)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.138" channel="0" transcriber_start="1356.101" transcriber_end="1383.091">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1590)..id(EN2009c.A.words1711)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.140" channel="0" transcriber_start="1422.064" transcriber_end="1422.782">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1712)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.142" channel="0" transcriber_start="1463.005" transcriber_end="1475.988">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1713)..id(EN2009c.A.words1763)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.144" channel="0" transcriber_start="1480.048" transcriber_end="1480.804">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1764)..id(EN2009c.A.words1765)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.146" channel="0" transcriber_start="1482.236" transcriber_end="1488.449">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1766)..id(EN2009c.A.words1797)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.148" channel="0" transcriber_start="1490.905" transcriber_end="1492.303">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1798)..id(EN2009c.A.words1801)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.150" channel="0" transcriber_start="1496.348" transcriber_end="1508.657">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1802)..id(EN2009c.A.words1870)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.152" channel="0" transcriber_start="1535.216" transcriber_end="1535.966">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1871)..id(EN2009c.A.words1873)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.154" channel="0" transcriber_start="1539.994" transcriber_end="1540.848">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1874)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.156" channel="0" transcriber_start="1559.957" transcriber_end="1589.234">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1875)..id(EN2009c.A.words1998)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.158" channel="0" transcriber_start="1591.103" transcriber_end="1610.905">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words1999)..id(EN2009c.A.words2099)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.160" channel="0" transcriber_start="1617.186" transcriber_end="1620.994">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2100)..id(EN2009c.A.words2118)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.162" channel="0" transcriber_start="1630.101" transcriber_end="1633.168">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2119)..id(EN2009c.A.words2138)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.164" channel="0" transcriber_start="1645.65" transcriber_end="1647.972">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2139)..id(EN2009c.A.words2152)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.166" channel="0" transcriber_start="1651.116" transcriber_end="1658.267">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2153)..id(EN2009c.A.words2175)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.168" channel="0" transcriber_start="1664.054" transcriber_end="1664.692">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2176)..id(EN2009c.A.words2177)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.170" channel="0" transcriber_start="1674.044" transcriber_end="1681.082">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2178)..id(EN2009c.A.words2207)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.172" channel="0" transcriber_start="1683.136" transcriber_end="1684.064">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2208)..id(EN2009c.A.words2213)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.174" channel="0" transcriber_start="1694.901" transcriber_end="1714.272">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2214)..id(EN2009c.A.words2313)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.176" channel="0" transcriber_start="1721.794" transcriber_end="1722.59">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2314)..id(EN2009c.A.words2317)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.178" channel="0" transcriber_start="1725.228" transcriber_end="1725.912">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2318)..id(EN2009c.A.words2321)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.180" channel="0" transcriber_start="1727.347" transcriber_end="1742.418">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2322)..id(EN2009c.A.words2389)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.182" channel="0" transcriber_start="1747.104" transcriber_end="1760.396">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2390)..id(EN2009c.A.words2449)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.184" channel="0" transcriber_start="1801.408" transcriber_end="1802.52">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2450)..id(EN2009c.A.words2453)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.186" channel="0" transcriber_start="1812.845" transcriber_end="1813.827">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2454)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.188" channel="0" transcriber_start="1818.191" transcriber_end="1818.546">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2455)..id(EN2009c.A.words2456)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.190" channel="0" transcriber_start="1832.16" transcriber_end="1833.361">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2457)..id(EN2009c.A.words2464)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.192" channel="0" transcriber_start="1835.776" transcriber_end="1844.192">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2465)..id(EN2009c.A.words2497)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.194" channel="0" transcriber_start="1848.616" transcriber_end="1852.951">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2498)..id(EN2009c.A.words2519)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.196" channel="0" transcriber_start="1854.955" transcriber_end="1869.989">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2520)..id(EN2009c.A.words2597)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.198" channel="0" transcriber_start="1873.943" transcriber_end="1874.925">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2598)..id(EN2009c.A.words2601)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.200" channel="0" transcriber_start="1881.914" transcriber_end="1882.394">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2602)..id(EN2009c.A.words2603)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.202" channel="0" transcriber_start="1890.432" transcriber_end="1890.992">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2604)..id(EN2009c.A.words2605)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.204" channel="0" transcriber_start="1893.861" transcriber_end="1895.845">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2606)..id(EN2009c.A.words2613)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.206" channel="0" transcriber_start="1897.936" transcriber_end="1900.366">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2614)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.208" channel="0" transcriber_start="1904.297" transcriber_end="1923.138">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2615)..id(EN2009c.A.words2706)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.210" channel="0" transcriber_start="1925.48" transcriber_end="1933.456">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2707)..id(EN2009c.A.words2755)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.212" channel="0" transcriber_start="2001.586" transcriber_end="2001.867">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2756)..id(EN2009c.A.words2757)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.214" channel="0" transcriber_start="2195.555" transcriber_end="2195.742">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2758)..id(EN2009c.A.words2759)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.216" channel="0" transcriber_start="2197.024" transcriber_end="2197.439">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2760)..id(EN2009c.A.words2761)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.218" channel="0" transcriber_start="2199.52" transcriber_end="2203.168">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2762)..id(EN2009c.A.words2778)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.220" channel="0" transcriber_start="2203.978" transcriber_end="2204.156">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2779)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.222" channel="0" transcriber_start="2224.336" transcriber_end="2229.228">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2780)..id(EN2009c.A.words2810)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.224" channel="0" transcriber_start="2230.877" transcriber_end="2231.212">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2811)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.226" channel="0" transcriber_start="2233.322" transcriber_end="2233.885">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2812)..id(EN2009c.A.words2813)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.228" channel="0" transcriber_start="2240.384" transcriber_end="2255.386">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2814)..id(EN2009c.A.words2893)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.230" channel="0" transcriber_start="2272.784" transcriber_end="2273.993">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2894)..id(EN2009c.A.words2899)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.232" channel="0" transcriber_start="2295.696" transcriber_end="2304.309">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2900)..id(EN2009c.A.words2935)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.234" channel="0" transcriber_start="2312.56" transcriber_end="2313.811">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2936)..id(EN2009c.A.words2941)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.236" channel="0" transcriber_start="2322.966" transcriber_end="2343.808">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words2942)..id(EN2009c.A.words3038)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.238" channel="0" transcriber_start="2348.783" transcriber_end="2353.763">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words3039)..id(EN2009c.A.words3047)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.240" channel="0" transcriber_start="2422.205" transcriber_end="2423.071">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words3048)..id(EN2009c.A.words3051)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.242" channel="0" transcriber_start="2431.751" transcriber_end="2438.222">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words3052)..id(EN2009c.A.words3089)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.244" channel="0" transcriber_start="2452.848" transcriber_end="2467.809">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words3090)..id(EN2009c.A.words3153)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.246" channel="0" transcriber_start="2528.94" transcriber_end="2529.488">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words3154)..id(EN2009c.A.words3155)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.248" channel="0" transcriber_start="2531.264" transcriber_end="2540.72">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words3156)..id(EN2009c.A.words3204)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.250" channel="0" transcriber_start="2553.568" transcriber_end="2554.048">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words3205)..id(EN2009c.A.words3206)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.252" channel="0" transcriber_start="2563.358" transcriber_end="2575.509">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words3207)..id(EN2009c.A.words3269)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.254" channel="0" transcriber_start="2615.296" transcriber_end="2616.484">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words3270)..id(EN2009c.A.words3275)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.256" channel="0" transcriber_start="2631.072" transcriber_end="2631.44">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words3276)..id(EN2009c.A.words3277)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.258" channel="0" transcriber_start="2642.544" transcriber_end="2644.766">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words3278)..id(EN2009c.A.words3291)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.260" channel="0" transcriber_start="2671.296" transcriber_end="2671.968">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words3292)..id(EN2009c.A.words3296)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.262" channel="0" transcriber_start="2678.454" transcriber_end="2684.108">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words3297)..id(EN2009c.A.words3327)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.264" channel="0" transcriber_start="2707.808" transcriber_end="2723.424">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words3328)..id(EN2009c.A.words3402)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.266" channel="0" transcriber_start="2726.066" transcriber_end="2735.761">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words3403)..id(EN2009c.A.words3455)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.268" channel="0" transcriber_start="2746.752" transcriber_end="2747.344">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words3456)..id(EN2009c.A.words3457)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.270" channel="0" transcriber_start="2749.248" transcriber_end="2755.363">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words3458)..id(EN2009c.A.words3488)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.272" channel="0" transcriber_start="2763.166" transcriber_end="2772.729">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words3489)..id(EN2009c.A.words3530)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.274" channel="0" transcriber_start="2804.855" transcriber_end="2818.159">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words3531)..id(EN2009c.A.words3601)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.276" channel="0" transcriber_start="2824.039" transcriber_end="2832.944">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words3602)..id(EN2009c.A.words3639)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.278" channel="0" transcriber_start="2836.508" transcriber_end="2844.575">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words3640)..id(EN2009c.A.words3671)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.280" channel="0" transcriber_start="2854.72" transcriber_end="2855.729">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words3672)..id(EN2009c.A.words3678)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.282" channel="0" transcriber_start="2865.248" transcriber_end="2869.616">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words3679)..id(EN2009c.A.words3704)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.284" channel="0" transcriber_start="2873.168" transcriber_end="2873.648">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words3705)..id(EN2009c.A.words3706)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.286" channel="0" transcriber_start="2875.765" transcriber_end="2877.289">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words3707)..id(EN2009c.A.words3710)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.288" channel="0" transcriber_start="2880.88" transcriber_end="2881.786">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words3711)..id(EN2009c.A.words3714)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.290" channel="0" transcriber_start="2885.847" transcriber_end="2886.682">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words3715)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.292" channel="0" transcriber_start="2889.12" transcriber_end="2889.882">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words3716)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.294" channel="0" transcriber_start="2894.141" transcriber_end="2906.529">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words3717)..id(EN2009c.A.words3777)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.296" channel="0" transcriber_start="2911.225" transcriber_end="2911.58">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words3778)..id(EN2009c.A.words3779)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.298" channel="0" transcriber_start="2921.568" transcriber_end="2922.32">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words3780)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.300" channel="0" transcriber_start="2926.326" transcriber_end="2926.723">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words3781)..id(EN2009c.A.words3782)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.302" channel="0" transcriber_start="2929.231" transcriber_end="2929.961">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words3783)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.304" channel="0" transcriber_start="2933.216" transcriber_end="2946.349">
+      <ns0:child href="EN2009c.A.words.xml#id(EN2009c.A.words3784)..id(EN2009c.A.words3846)" />
+   </segment>
+<segment ns0:id="EN2009c.sync.307" channel="1" transcriber_start="0.0" transcriber_end="11.229">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words0)..id(EN2009c.B.words46)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.309" channel="1" transcriber_start="18.978" transcriber_end="19.845">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words47)..id(EN2009c.B.words49)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.311" channel="1" transcriber_start="20.864" transcriber_end="25.792">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words50)..id(EN2009c.B.words68)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.313" channel="1" transcriber_start="29.767" transcriber_end="30.065">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words69)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.315" channel="1" transcriber_start="31.986" transcriber_end="32.817">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words70)..id(EN2009c.B.words71)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.317" channel="1" transcriber_start="35.168" transcriber_end="35.84">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words72)..id(EN2009c.B.words73)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.319" channel="1" transcriber_start="37.524" transcriber_end="38.182">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words74)..id(EN2009c.B.words75)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.321" channel="1" transcriber_start="44.07" transcriber_end="46.341">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words76)..id(EN2009c.B.words89)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.323" channel="1" transcriber_start="60.56" transcriber_end="63.002">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words90)..id(EN2009c.B.words106)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.325" channel="1" transcriber_start="63.745" transcriber_end="64.23">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words107)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.327" channel="1" transcriber_start="66.272" transcriber_end="66.72">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words108)..id(EN2009c.B.words110)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.329" channel="1" transcriber_start="71.232" transcriber_end="72.416">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words111)..id(EN2009c.B.words118)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.331" channel="1" transcriber_start="75.625" transcriber_end="76.656">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words119)..id(EN2009c.B.words124)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.333" channel="1" transcriber_start="77.763" transcriber_end="78.736">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words125)..id(EN2009c.B.words128)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.335" channel="1" transcriber_start="83.241" transcriber_end="85.714">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words129)..id(EN2009c.B.words131)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.337" channel="1" transcriber_start="89.84" transcriber_end="94.292">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words132)..id(EN2009c.B.words150)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.339" channel="1" transcriber_start="97.2" transcriber_end="99.291">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words151)..id(EN2009c.B.words154)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.341" channel="1" transcriber_start="104.044" transcriber_end="109.971">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words155)..id(EN2009c.B.words175)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.343" channel="1" transcriber_start="122.832" transcriber_end="123.812">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words176)..id(EN2009c.B.words180)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.345" channel="1" transcriber_start="131.96" transcriber_end="132.33">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words181)..id(EN2009c.B.words182)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.347" channel="1" transcriber_start="149.049" transcriber_end="160.056">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words183)..id(EN2009c.B.words224)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.349" channel="1" transcriber_start="165.569" transcriber_end="178.016">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words225)..id(EN2009c.B.words276)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.351" channel="1" transcriber_start="186.342" transcriber_end="186.795">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words277)..id(EN2009c.B.words278)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.353" channel="1" transcriber_start="197.7" transcriber_end="202.351">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words279)..id(EN2009c.B.words294)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.355" channel="1" transcriber_start="207.548" transcriber_end="216.214">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words295)..id(EN2009c.B.words328)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.357" channel="1" transcriber_start="225.36" transcriber_end="226.31">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words329)..id(EN2009c.B.words332)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.359" channel="1" transcriber_start="231.35" transcriber_end="235.028">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words333)..id(EN2009c.B.words350)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.361" channel="1" transcriber_start="237.013" transcriber_end="242.594">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words351)..id(EN2009c.B.words374)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.363" channel="1" transcriber_start="244.404" transcriber_end="262.428">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words375)..id(EN2009c.B.words445)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.365" channel="1" transcriber_start="279.678" transcriber_end="280.09">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words446)..id(EN2009c.B.words447)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.367" channel="1" transcriber_start="283.945" transcriber_end="307.116">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words448)..id(EN2009c.B.words545)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.369" channel="1" transcriber_start="308.565" transcriber_end="336.199">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words546)..id(EN2009c.B.words640)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.371" channel="1" transcriber_start="359.032" transcriber_end="367.478">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words641)..id(EN2009c.B.words674)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.373" channel="1" transcriber_start="373.256" transcriber_end="373.936">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words675)..id(EN2009c.B.words676)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.375" channel="1" transcriber_start="381.46" transcriber_end="381.88">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words677)..id(EN2009c.B.words678)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.377" channel="1" transcriber_start="388.352" transcriber_end="419.872">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words679)..id(EN2009c.B.words808)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.379" channel="1" transcriber_start="433.532" transcriber_end="436.192">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words809)..id(EN2009c.B.words817)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.381" channel="1" transcriber_start="438.463" transcriber_end="439.344">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words818)..id(EN2009c.B.words819)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.383" channel="1" transcriber_start="442.525" transcriber_end="445.431">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words820)..id(EN2009c.B.words829)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.385" channel="1" transcriber_start="448.352" transcriber_end="449.331">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words830)..id(EN2009c.B.words834)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.387" channel="1" transcriber_start="454.221" transcriber_end="454.962">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words835)..id(EN2009c.B.words838)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.389" channel="1" transcriber_start="459.032" transcriber_end="464.646">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words839)..id(EN2009c.B.words861)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.391" channel="1" transcriber_start="474.416" transcriber_end="479.346">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words862)..id(EN2009c.B.words878)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.393" channel="1" transcriber_start="488.405" transcriber_end="515.045">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words879)..id(EN2009c.B.words987)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.395" channel="1" transcriber_start="515.702" transcriber_end="515.963">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words988)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.397" channel="1" transcriber_start="520.98" transcriber_end="523.505">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words989)..id(EN2009c.B.words996)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.399" channel="1" transcriber_start="524.976" transcriber_end="533.648">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words997)..id(EN2009c.B.words1035)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.401" channel="1" transcriber_start="535.141" transcriber_end="551.935">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1036)..id(EN2009c.B.words1085)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.403" channel="1" transcriber_start="556.151" transcriber_end="559.521">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1086)..id(EN2009c.B.words1095)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.405" channel="1" transcriber_start="562.679" transcriber_end="570.639">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1096)..id(EN2009c.B.words1131)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.407" channel="1" transcriber_start="572.315" transcriber_end="575.18">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1132)..id(EN2009c.B.words1144)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.409" channel="1" transcriber_start="576.925" transcriber_end="582.61">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1145)..id(EN2009c.B.words1174)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.411" channel="1" transcriber_start="592.496" transcriber_end="595.379">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1175)..id(EN2009c.B.words1191)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.413" channel="1" transcriber_start="600.88" transcriber_end="607.267">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1192)..id(EN2009c.B.words1215)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.415" channel="1" transcriber_start="612.444" transcriber_end="617.849">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1216)..id(EN2009c.B.words1245)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.417" channel="1" transcriber_start="621.884" transcriber_end="624.024">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1246)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.419" channel="1" transcriber_start="626.304" transcriber_end="631.126">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1247)..id(EN2009c.B.words1258)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.421" channel="1" transcriber_start="636.859" transcriber_end="637.536">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1259)..id(EN2009c.B.words1260)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.423" channel="1" transcriber_start="639.472" transcriber_end="644.72">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1261)..id(EN2009c.B.words1288)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.425" channel="1" transcriber_start="648.704" transcriber_end="650.512">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1289)..id(EN2009c.B.words1298)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.427" channel="1" transcriber_start="664.145" transcriber_end="667.248">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1299)..id(EN2009c.B.words1310)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.429" channel="1" transcriber_start="675.904" transcriber_end="691.645">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1311)..id(EN2009c.B.words1369)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.431" channel="1" transcriber_start="696.272" transcriber_end="697.328">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1370)..id(EN2009c.B.words1376)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.433" channel="1" transcriber_start="698.766" transcriber_end="701.153">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1377)..id(EN2009c.B.words1387)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.435" channel="1" transcriber_start="706.336" transcriber_end="707.584">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1388)..id(EN2009c.B.words1395)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.437" channel="1" transcriber_start="712.464" transcriber_end="715.56">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1396)..id(EN2009c.B.words1410)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.439" channel="1" transcriber_start="717.36" transcriber_end="725.11">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1411)..id(EN2009c.B.words1442)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.441" channel="1" transcriber_start="729.3" transcriber_end="729.925">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1443)..id(EN2009c.B.words1445)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.443" channel="1" transcriber_start="738.352" transcriber_end="738.568">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1446)..id(EN2009c.B.words1447)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.445" channel="1" transcriber_start="739.868" transcriber_end="752.062">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1448)..id(EN2009c.B.words1489)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.447" channel="1" transcriber_start="753.221" transcriber_end="754.003">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1490)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.449" channel="1" transcriber_start="760.415" transcriber_end="765.511">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1491)..id(EN2009c.B.words1509)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.451" channel="1" transcriber_start="779.903" transcriber_end="780.798">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1510)..id(EN2009c.B.words1511)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.453" channel="1" transcriber_start="782.817" transcriber_end="783.154">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1512)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.455" channel="1" transcriber_start="804.464" transcriber_end="819.344">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1513)..id(EN2009c.B.words1571)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.457" channel="1" transcriber_start="821.008" transcriber_end="823.428">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1572)..id(EN2009c.B.words1575)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.459" channel="1" transcriber_start="829.184" transcriber_end="833.187">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1576)..id(EN2009c.B.words1591)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.461" channel="1" transcriber_start="835.216" transcriber_end="844.525">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1592)..id(EN2009c.B.words1623)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.463" channel="1" transcriber_start="845.984" transcriber_end="850.848">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1624)..id(EN2009c.B.words1650)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.465" channel="1" transcriber_start="852.692" transcriber_end="855.2">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1651)..id(EN2009c.B.words1664)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.467" channel="1" transcriber_start="857.925" transcriber_end="859.36">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1665)..id(EN2009c.B.words1669)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.469" channel="1" transcriber_start="880.166" transcriber_end="891.152">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1670)..id(EN2009c.B.words1701)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.471" channel="1" transcriber_start="893.104" transcriber_end="922.592">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1702)..id(EN2009c.B.words1829)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.473" channel="1" transcriber_start="929.575" transcriber_end="930.736">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1830)..id(EN2009c.B.words1834)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.475" channel="1" transcriber_start="937.436" transcriber_end="942.578">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1835)..id(EN2009c.B.words1853)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.477" channel="1" transcriber_start="950.084" transcriber_end="951.467">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1854)..id(EN2009c.B.words1858)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.479" channel="1" transcriber_start="953.824" transcriber_end="956.401">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1859)..id(EN2009c.B.words1873)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.481" channel="1" transcriber_start="965.536" transcriber_end="968.117">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1874)..id(EN2009c.B.words1889)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.483" channel="1" transcriber_start="970.144" transcriber_end="972.041">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1890)..id(EN2009c.B.words1897)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.485" channel="1" transcriber_start="974.432" transcriber_end="975.286">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1898)..id(EN2009c.B.words1901)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.487" channel="1" transcriber_start="980.4" transcriber_end="982.592">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1902)..id(EN2009c.B.words1908)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.489" channel="1" transcriber_start="983.968" transcriber_end="987.055">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1909)..id(EN2009c.B.words1915)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.491" channel="1" transcriber_start="991.856" transcriber_end="996.272">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1916)..id(EN2009c.B.words1937)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.493" channel="1" transcriber_start="998.977" transcriber_end="999.513">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1938)..id(EN2009c.B.words1939)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.495" channel="1" transcriber_start="1011.328" transcriber_end="1011.892">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1940)..id(EN2009c.B.words1941)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.497" channel="1" transcriber_start="1016.688" transcriber_end="1017.36">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1942)..id(EN2009c.B.words1943)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.499" channel="1" transcriber_start="1021.952" transcriber_end="1047.418">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words1944)..id(EN2009c.B.words2024)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.501" channel="1" transcriber_start="1048.768" transcriber_end="1053.536">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2025)..id(EN2009c.B.words2040)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.503" channel="1" transcriber_start="1056.748" transcriber_end="1057.893">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2041)..id(EN2009c.B.words2046)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.505" channel="1" transcriber_start="1064.7" transcriber_end="1065.161">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2047)..id(EN2009c.B.words2048)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.507" channel="1" transcriber_start="1068.496" transcriber_end="1092.099">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2049)..id(EN2009c.B.words2121)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.509" channel="1" transcriber_start="1099.6" transcriber_end="1116.748">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2122)..id(EN2009c.B.words2185)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.511" channel="1" transcriber_start="1120.494" transcriber_end="1131.968">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2186)..id(EN2009c.B.words2229)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.513" channel="1" transcriber_start="1135.376" transcriber_end="1141.76">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2230)..id(EN2009c.B.words2252)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.515" channel="1" transcriber_start="1143.017" transcriber_end="1146.624">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2253)..id(EN2009c.B.words2265)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.517" channel="1" transcriber_start="1155.44" transcriber_end="1158.625">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2266)..id(EN2009c.B.words2276)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.519" channel="1" transcriber_start="1160.064" transcriber_end="1163.665">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2277)..id(EN2009c.B.words2288)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.521" channel="1" transcriber_start="1173.552" transcriber_end="1184.396">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2289)..id(EN2009c.B.words2330)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.523" channel="1" transcriber_start="1186.736" transcriber_end="1188.269">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2331)..id(EN2009c.B.words2337)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.525" channel="1" transcriber_start="1193.44" transcriber_end="1194.647">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2338)..id(EN2009c.B.words2343)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.527" channel="1" transcriber_start="1197.662" transcriber_end="1209.549">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2344)..id(EN2009c.B.words2390)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.529" channel="1" transcriber_start="1213.444" transcriber_end="1222.741">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2391)..id(EN2009c.B.words2414)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.531" channel="1" transcriber_start="1226.1" transcriber_end="1227.665">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2415)..id(EN2009c.B.words2422)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.533" channel="1" transcriber_start="1238.368" transcriber_end="1239.674">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2423)..id(EN2009c.B.words2428)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.535" channel="1" transcriber_start="1241.256" transcriber_end="1243.043">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2429)..id(EN2009c.B.words2438)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.537" channel="1" transcriber_start="1246.163" transcriber_end="1246.645">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2439)..id(EN2009c.B.words2440)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.539" channel="1" transcriber_start="1255.824" transcriber_end="1266.154">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2441)..id(EN2009c.B.words2489)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.541" channel="1" transcriber_start="1268.821" transcriber_end="1278.664">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2490)..id(EN2009c.B.words2533)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.543" channel="1" transcriber_start="1291.264" transcriber_end="1291.69">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2534)..id(EN2009c.B.words2535)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.545" channel="1" transcriber_start="1300.103" transcriber_end="1307.36">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2536)..id(EN2009c.B.words2555)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.547" channel="1" transcriber_start="1307.849" transcriber_end="1308.222">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2556)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.549" channel="1" transcriber_start="1309.453" transcriber_end="1314.952">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2557)..id(EN2009c.B.words2585)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.551" channel="1" transcriber_start="1324.816" transcriber_end="1327.568">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2586)..id(EN2009c.B.words2591)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.553" channel="1" transcriber_start="1330.048" transcriber_end="1333.114">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2592)..id(EN2009c.B.words2603)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.555" channel="1" transcriber_start="1346.604" transcriber_end="1354.88">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2604)..id(EN2009c.B.words2623)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.557" channel="1" transcriber_start="1384.112" transcriber_end="1405.31">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2624)..id(EN2009c.B.words2715)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.559" channel="1" transcriber_start="1406.643" transcriber_end="1407.368">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2716)..id(EN2009c.B.words2718)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.561" channel="1" transcriber_start="1410.966" transcriber_end="1413.896">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2719)..id(EN2009c.B.words2731)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.563" channel="1" transcriber_start="1417.84" transcriber_end="1421.149">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2732)..id(EN2009c.B.words2737)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.565" channel="1" transcriber_start="1424.032" transcriber_end="1428.041">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2738)..id(EN2009c.B.words2756)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.567" channel="1" transcriber_start="1435.093" transcriber_end="1438.658">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2757)..id(EN2009c.B.words2769)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.569" channel="1" transcriber_start="1440.3" transcriber_end="1454.442">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2770)..id(EN2009c.B.words2826)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.571" channel="1" transcriber_start="1457.152" transcriber_end="1463.257">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2827)..id(EN2009c.B.words2855)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.573" channel="1" transcriber_start="1470.502" transcriber_end="1470.963">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2856)..id(EN2009c.B.words2857)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.575" channel="1" transcriber_start="1472.765" transcriber_end="1474.312">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2858)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.577" channel="1" transcriber_start="1475.68" transcriber_end="1482.208">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2859)..id(EN2009c.B.words2890)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.579" channel="1" transcriber_start="1491.754" transcriber_end="1496.339">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2891)..id(EN2009c.B.words2917)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.581" channel="1" transcriber_start="1506.216" transcriber_end="1520.572">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2918)..id(EN2009c.B.words2977)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.583" channel="1" transcriber_start="1525.216" transcriber_end="1525.701">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2978)..id(EN2009c.B.words2979)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.585" channel="1" transcriber_start="1533.216" transcriber_end="1553.674">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words2980)..id(EN2009c.B.words3058)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.587" channel="1" transcriber_start="1558.3" transcriber_end="1561.452">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3059)..id(EN2009c.B.words3068)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.589" channel="1" transcriber_start="1566.86" transcriber_end="1567.708">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3069)..id(EN2009c.B.words3072)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.591" channel="1" transcriber_start="1570.589" transcriber_end="1571.083">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3073)..id(EN2009c.B.words3074)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.593" channel="1" transcriber_start="1586.271" transcriber_end="1591.646">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3075)..id(EN2009c.B.words3101)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.595" channel="1" transcriber_start="1602.064" transcriber_end="1606.052">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3102)..id(EN2009c.B.words3109)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.597" channel="1" transcriber_start="1609.145" transcriber_end="1617.99">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3110)..id(EN2009c.B.words3147)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.599" channel="1" transcriber_start="1620.468" transcriber_end="1637.541">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3148)..id(EN2009c.B.words3199)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.601" channel="1" transcriber_start="1642.087" transcriber_end="1655.106">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3200)..id(EN2009c.B.words3264)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.603" channel="1" transcriber_start="1658.58" transcriber_end="1674.724">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3265)..id(EN2009c.B.words3342)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.605" channel="1" transcriber_start="1678.939" transcriber_end="1698.368">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3343)..id(EN2009c.B.words3419)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.607" channel="1" transcriber_start="1705.284" transcriber_end="1707.292">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3420)..id(EN2009c.B.words3425)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.609" channel="1" transcriber_start="1708.609" transcriber_end="1709.243">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3426)..id(EN2009c.B.words3427)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.611" channel="1" transcriber_start="1714.192" transcriber_end="1726.441">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3428)..id(EN2009c.B.words3473)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.613" channel="1" transcriber_start="1741.978" transcriber_end="1746.769">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3474)..id(EN2009c.B.words3494)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.615" channel="1" transcriber_start="1759.904" transcriber_end="1764.4">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3495)..id(EN2009c.B.words3511)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.617" channel="1" transcriber_start="1777.248" transcriber_end="1781.576">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3512)..id(EN2009c.B.words3531)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.619" channel="1" transcriber_start="1787.577" transcriber_end="1788.342">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3532)..id(EN2009c.B.words3534)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.621" channel="1" transcriber_start="1790.543" transcriber_end="1800.985">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3535)..id(EN2009c.B.words3575)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.623" channel="1" transcriber_start="1811.216" transcriber_end="1812.687">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3576)..id(EN2009c.B.words3583)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.625" channel="1" transcriber_start="1814.004" transcriber_end="1815.504">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3584)..id(EN2009c.B.words3590)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.627" channel="1" transcriber_start="1818.566" transcriber_end="1820.344">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3591)..id(EN2009c.B.words3600)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.629" channel="1" transcriber_start="1822.812" transcriber_end="1824.297">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3601)..id(EN2009c.B.words3607)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.631" channel="1" transcriber_start="1825.824" transcriber_end="1829.576">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3608)..id(EN2009c.B.words3616)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.633" channel="1" transcriber_start="1834.64" transcriber_end="1835.12">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3617)..id(EN2009c.B.words3618)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.635" channel="1" transcriber_start="1844.448" transcriber_end="1847.664">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3619)..id(EN2009c.B.words3638)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.637" channel="1" transcriber_start="1852.695" transcriber_end="1855.951">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3639)..id(EN2009c.B.words3649)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.639" channel="1" transcriber_start="1861.04" transcriber_end="1861.725">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3650)..id(EN2009c.B.words3651)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.641" channel="1" transcriber_start="1869.735" transcriber_end="1871.513">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3652)..id(EN2009c.B.words3660)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.643" channel="1" transcriber_start="1873.856" transcriber_end="1884.256">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3661)..id(EN2009c.B.words3708)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.645" channel="1" transcriber_start="1887.04" transcriber_end="1888.992">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3709)..id(EN2009c.B.words3716)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.647" channel="1" transcriber_start="1891.824" transcriber_end="1893.112">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3717)..id(EN2009c.B.words3724)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.649" channel="1" transcriber_start="1900.137" transcriber_end="1902.171">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3725)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.651" channel="1" transcriber_start="1903.589" transcriber_end="1904.141">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3726)..id(EN2009c.B.words3728)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.653" channel="1" transcriber_start="1919.001" transcriber_end="1919.972">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3729)..id(EN2009c.B.words3733)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.655" channel="1" transcriber_start="1925.92" transcriber_end="1926.848">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3734)..id(EN2009c.B.words3735)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.657" channel="1" transcriber_start="1930.432" transcriber_end="1931.303">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3736)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.659" channel="1" transcriber_start="1933.509" transcriber_end="1933.962">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3737)..id(EN2009c.B.words3738)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.661" channel="1" transcriber_start="1938.009" transcriber_end="1938.424">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3739)..id(EN2009c.B.words3740)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.663" channel="1" transcriber_start="1957.325" transcriber_end="1957.745">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3741)..id(EN2009c.B.words3742)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.665" channel="1" transcriber_start="1960.48" transcriber_end="1961.296">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3743)..id(EN2009c.B.words3745)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.667" channel="1" transcriber_start="1962.804" transcriber_end="1973.573">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3746)..id(EN2009c.B.words3775)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.669" channel="1" transcriber_start="1974.981" transcriber_end="1980.048">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3776)..id(EN2009c.B.words3795)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.671" channel="1" transcriber_start="1981.68" transcriber_end="1982.112">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3796)..id(EN2009c.B.words3797)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.673" channel="1" transcriber_start="1983.936" transcriber_end="1993.153">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3798)..id(EN2009c.B.words3840)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.675" channel="1" transcriber_start="1998.064" transcriber_end="1999.011">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3841)..id(EN2009c.B.words3844)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.677" channel="1" transcriber_start="2001.408" transcriber_end="2011.237">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3845)..id(EN2009c.B.words3877)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.679" channel="1" transcriber_start="2013.934" transcriber_end="2016.848">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3878)..id(EN2009c.B.words3885)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.681" channel="1" transcriber_start="2022.208" transcriber_end="2024.341">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3886)..id(EN2009c.B.words3898)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.683" channel="1" transcriber_start="2026.928" transcriber_end="2028.273">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3899)..id(EN2009c.B.words3902)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.685" channel="1" transcriber_start="2029.68" transcriber_end="2062.136">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words3903)..id(EN2009c.B.words4032)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.687" channel="1" transcriber_start="2070.887" transcriber_end="2092.768">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words4033)..id(EN2009c.B.words4122)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.689" channel="1" transcriber_start="2102.656" transcriber_end="2103.6">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words4123)..id(EN2009c.B.words4126)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.691" channel="1" transcriber_start="2106.335" transcriber_end="2128.416">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words4127)..id(EN2009c.B.words4203)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.693" channel="1" transcriber_start="2136.656" transcriber_end="2140.296">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words4204)..id(EN2009c.B.words4214)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.695" channel="1" transcriber_start="2146.352" transcriber_end="2158.643">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words4215)..id(EN2009c.B.words4256)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.697" channel="1" transcriber_start="2163.6" transcriber_end="2189.092">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words4257)..id(EN2009c.B.words4334)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.699" channel="1" transcriber_start="2192.0" transcriber_end="2196.736">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words4335)..id(EN2009c.B.words4353)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.701" channel="1" transcriber_start="2203.148" transcriber_end="2207.305">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words4354)..id(EN2009c.B.words4375)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.703" channel="1" transcriber_start="2251.972" transcriber_end="2252.54">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words4376)..id(EN2009c.B.words4377)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.705" channel="1" transcriber_start="2272.916" transcriber_end="2295.29">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words4378)..id(EN2009c.B.words4459)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.707" channel="1" transcriber_start="2304.853" transcriber_end="2322.911">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words4460)..id(EN2009c.B.words4528)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.709" channel="1" transcriber_start="2353.301" transcriber_end="2357.639">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words4529)..id(EN2009c.B.words4545)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.711" channel="1" transcriber_start="2359.129" transcriber_end="2361.541">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words4546)..id(EN2009c.B.words4557)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.713" channel="1" transcriber_start="2371.44" transcriber_end="2372.72">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words4558)..id(EN2009c.B.words4566)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.715" channel="1" transcriber_start="2384.12" transcriber_end="2390.731">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words4567)..id(EN2009c.B.words4603)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.717" channel="1" transcriber_start="2401.408" transcriber_end="2402.105">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words4604)..id(EN2009c.B.words4605)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.719" channel="1" transcriber_start="2406.106" transcriber_end="2406.584">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words4606)..id(EN2009c.B.words4607)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.721" channel="1" transcriber_start="2417.007" transcriber_end="2420.885">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words4608)..id(EN2009c.B.words4620)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.723" channel="1" transcriber_start="2424.838" transcriber_end="2431.603">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words4621)..id(EN2009c.B.words4641)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.725" channel="1" transcriber_start="2466.162" transcriber_end="2519.055">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words4642)..id(EN2009c.B.words4822)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.727" channel="1" transcriber_start="2529.595" transcriber_end="2530.36">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words4823)..id(EN2009c.B.words4824)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.729" channel="1" transcriber_start="2550.342" transcriber_end="2550.96">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words4825)..id(EN2009c.B.words4826)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.731" channel="1" transcriber_start="2573.568" transcriber_end="2615.491">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words4827)..id(EN2009c.B.words4974)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.732" channel="1" transcriber_start="2615.491" transcriber_end="2632.367">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words4975)..id(EN2009c.B.words5041)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.734" channel="1" transcriber_start="2654.085" transcriber_end="2654.776">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words5042)..id(EN2009c.B.words5044)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.736" channel="1" transcriber_start="2683.671" transcriber_end="2693.376">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words5045)..id(EN2009c.B.words5088)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.738" channel="1" transcriber_start="2700.035" transcriber_end="2705.696">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words5089)..id(EN2009c.B.words5117)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.740" channel="1" transcriber_start="2722.401" transcriber_end="2722.747">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words5118)..id(EN2009c.B.words5119)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.742" channel="1" transcriber_start="2749.432" transcriber_end="2750.057">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words5120)..id(EN2009c.B.words5121)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.744" channel="1" transcriber_start="2754.634" transcriber_end="2761.187">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words5122)..id(EN2009c.B.words5151)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.746" channel="1" transcriber_start="2771.375" transcriber_end="2804.231">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words5152)..id(EN2009c.B.words5265)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.748" channel="1" transcriber_start="2815.867" transcriber_end="2824.976">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words5266)..id(EN2009c.B.words5300)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.750" channel="1" transcriber_start="2829.012" transcriber_end="2829.539">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words5301)..id(EN2009c.B.words5302)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.752" channel="1" transcriber_start="2831.072" transcriber_end="2831.971">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words5303)..id(EN2009c.B.words5307)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.754" channel="1" transcriber_start="2842.762" transcriber_end="2843.216">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words5308)..id(EN2009c.B.words5309)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.756" channel="1" transcriber_start="2845.146" transcriber_end="2857.553">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words5310)..id(EN2009c.B.words5354)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.758" channel="1" transcriber_start="2865.612" transcriber_end="2866.074">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words5355)..id(EN2009c.B.words5356)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.760" channel="1" transcriber_start="2869.936" transcriber_end="2894.002">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words5357)..id(EN2009c.B.words5455)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.762" channel="1" transcriber_start="2898.016" transcriber_end="2898.964">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words5456)..id(EN2009c.B.words5459)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.764" channel="1" transcriber_start="2902.407" transcriber_end="2910.331">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words5460)..id(EN2009c.B.words5481)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.766" channel="1" transcriber_start="2923.296" transcriber_end="2934.724">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words5482)..id(EN2009c.B.words5526)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.768" channel="1" transcriber_start="2939.198" transcriber_end="2940.622">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words5527)..id(EN2009c.B.words5534)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.770" channel="1" transcriber_start="2942.237" transcriber_end="2944.012">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words5535)..id(EN2009c.B.words5543)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.772" channel="1" transcriber_start="2946.192" transcriber_end="2947.248">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words5544)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.774" channel="1" transcriber_start="2952.864" transcriber_end="2953.664">
+      <ns0:child href="EN2009c.B.words.xml#id(EN2009c.B.words5545)..id(EN2009c.B.words5546)" />
+   </segment>
+<segment ns0:id="EN2009c.sync.778" channel="2" transcriber_start="0.574" transcriber_end="1.326">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words0)..id(EN2009c.C.words4)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.780" channel="2" transcriber_start="5.84" transcriber_end="6.977">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words5)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.782" channel="2" transcriber_start="19.58" transcriber_end="24.801">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words6)..id(EN2009c.C.words12)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.784" channel="2" transcriber_start="31.931" transcriber_end="33.496">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words13)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.786" channel="2" transcriber_start="35.359" transcriber_end="36.626">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words14)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.788" channel="2" transcriber_start="43.568" transcriber_end="45.682">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words15)..id(EN2009c.C.words18)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.790" channel="2" transcriber_start="62.747" transcriber_end="71.039">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words19)..id(EN2009c.C.words40)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.792" channel="2" transcriber_start="91.768" transcriber_end="92.141">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words41)..id(EN2009c.C.words42)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.794" channel="2" transcriber_start="94.768" transcriber_end="96.501">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words43)..id(EN2009c.C.words48)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.796" channel="2" transcriber_start="104.774" transcriber_end="105.11">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words49)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.798" channel="2" transcriber_start="105.873" transcriber_end="106.246">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words50)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.800" channel="2" transcriber_start="240.855" transcriber_end="241.19">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words51)..id(EN2009c.C.words52)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.802" channel="2" transcriber_start="241.608" transcriber_end="246.401">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words53)..id(EN2009c.C.words67)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.804" channel="2" transcriber_start="247.892" transcriber_end="248.432">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words68)..id(EN2009c.C.words69)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.806" channel="2" transcriber_start="327.515" transcriber_end="329.428">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words70)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.808" channel="2" transcriber_start="396.25" transcriber_end="399.194">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words71)..id(EN2009c.C.words79)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.810" channel="2" transcriber_start="426.224" transcriber_end="426.976">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words80)..id(EN2009c.C.words81)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.812" channel="2" transcriber_start="436.047" transcriber_end="441.81">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words82)..id(EN2009c.C.words104)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.814" channel="2" transcriber_start="445.428" transcriber_end="459.192">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words105)..id(EN2009c.C.words141)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.816" channel="2" transcriber_start="465.033" transcriber_end="474.272">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words142)..id(EN2009c.C.words179)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.818" channel="2" transcriber_start="479.856" transcriber_end="489.28">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words180)..id(EN2009c.C.words211)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.820" channel="2" transcriber_start="493.357" transcriber_end="498.744">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words212)..id(EN2009c.C.words220)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.822" channel="2" transcriber_start="506.282" transcriber_end="506.804">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words221)..id(EN2009c.C.words223)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.824" channel="2" transcriber_start="524.192" transcriber_end="524.977">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words224)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.826" channel="2" transcriber_start="525.575" transcriber_end="526.619">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words225)..id(EN2009c.C.words226)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.828" channel="2" transcriber_start="529.198" transcriber_end="529.897">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words227)..id(EN2009c.C.words228)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.830" channel="2" transcriber_start="541.072" transcriber_end="544.072">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words229)..id(EN2009c.C.words236)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.832" channel="2" transcriber_start="559.916" transcriber_end="562.755">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words237)..id(EN2009c.C.words240)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.834" channel="2" transcriber_start="568.229" transcriber_end="572.435">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words241)..id(EN2009c.C.words252)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.836" channel="2" transcriber_start="572.818" transcriber_end="573.528">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words253)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.838" channel="2" transcriber_start="579.743" transcriber_end="583.168">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words254)..id(EN2009c.C.words263)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.840" channel="2" transcriber_start="591.99" transcriber_end="594.537">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words264)..id(EN2009c.C.words272)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.842" channel="2" transcriber_start="603.336" transcriber_end="605.7">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words273)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.844" channel="2" transcriber_start="621.616" transcriber_end="628.095">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words274)..id(EN2009c.C.words282)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.846" channel="2" transcriber_start="630.867" transcriber_end="631.203">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words283)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.848" channel="2" transcriber_start="644.531" transcriber_end="646.327">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words284)..id(EN2009c.C.words291)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.850" channel="2" transcriber_start="646.783" transcriber_end="647.38">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words292)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.852" channel="2" transcriber_start="648.725" transcriber_end="665.566">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words293)..id(EN2009c.C.words342)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.854" channel="2" transcriber_start="668.181" transcriber_end="678.07">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words343)..id(EN2009c.C.words379)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.856" channel="2" transcriber_start="680.688" transcriber_end="682.895">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words380)..id(EN2009c.C.words387)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.858" channel="2" transcriber_start="691.005" transcriber_end="695.724">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words388)..id(EN2009c.C.words405)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.860" channel="2" transcriber_start="698.594" transcriber_end="704.788">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words406)..id(EN2009c.C.words429)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.862" channel="2" transcriber_start="706.404" transcriber_end="712.773">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words430)..id(EN2009c.C.words447)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.864" channel="2" transcriber_start="720.94" transcriber_end="739.608">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words448)..id(EN2009c.C.words505)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.866" channel="2" transcriber_start="749.745" transcriber_end="752.802">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words506)..id(EN2009c.C.words516)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.868" channel="2" transcriber_start="754.819" transcriber_end="760.746">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words517)..id(EN2009c.C.words541)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.870" channel="2" transcriber_start="763.752" transcriber_end="766.917">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words542)..id(EN2009c.C.words549)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.872" channel="2" transcriber_start="783.424" transcriber_end="804.207">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words550)..id(EN2009c.C.words609)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.874" channel="2" transcriber_start="810.176" transcriber_end="815.373">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words610)..id(EN2009c.C.words612)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.876" channel="2" transcriber_start="819.709" transcriber_end="823.69">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words613)..id(EN2009c.C.words629)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.878" channel="2" transcriber_start="826.013" transcriber_end="826.857">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words630)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.880" channel="2" transcriber_start="827.307" transcriber_end="827.831">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words631)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.882" channel="2" transcriber_start="855.359" transcriber_end="856.904">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words632)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.884" channel="2" transcriber_start="859.856" transcriber_end="869.085">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words633)..id(EN2009c.C.words662)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.886" channel="2" transcriber_start="870.451" transcriber_end="870.675">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words663)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.888" channel="2" transcriber_start="879.136" transcriber_end="879.808">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words664)..id(EN2009c.C.words665)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.890" channel="2" transcriber_start="909.355" transcriber_end="911.464">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words666)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.892" channel="2" transcriber_start="913.938" transcriber_end="914.585">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words667)..id(EN2009c.C.words668)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.894" channel="2" transcriber_start="920.096" transcriber_end="920.691">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words669)..id(EN2009c.C.words670)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.896" channel="2" transcriber_start="922.417" transcriber_end="937.32">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words671)..id(EN2009c.C.words724)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.898" channel="2" transcriber_start="940.385" transcriber_end="940.834">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words725)..id(EN2009c.C.words726)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.900" channel="2" transcriber_start="943.334" transcriber_end="954.204">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words727)..id(EN2009c.C.words749)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.902" channel="2" transcriber_start="957.427" transcriber_end="957.726">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words750)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.904" channel="2" transcriber_start="959.056" transcriber_end="966.214">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words751)..id(EN2009c.C.words773)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.906" channel="2" transcriber_start="968.219" transcriber_end="979.893">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words774)..id(EN2009c.C.words807)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.908" channel="2" transcriber_start="985.342" transcriber_end="991.84">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words808)..id(EN2009c.C.words829)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.910" channel="2" transcriber_start="994.627" transcriber_end="995.028">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words830)..id(EN2009c.C.words831)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.912" channel="2" transcriber_start="996.72" transcriber_end="999.41">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words832)..id(EN2009c.C.words838)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.914" channel="2" transcriber_start="1000.748" transcriber_end="1016.025">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words839)..id(EN2009c.C.words875)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.916" channel="2" transcriber_start="1017.486" transcriber_end="1021.502">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words876)..id(EN2009c.C.words882)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.918" channel="2" transcriber_start="1027.936" transcriber_end="1029.241">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words883)..id(EN2009c.C.words885)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.920" channel="2" transcriber_start="1031.428" transcriber_end="1031.856">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words886)..id(EN2009c.C.words887)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.922" channel="2" transcriber_start="1047.264" transcriber_end="1048.286">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words888)..id(EN2009c.C.words889)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.924" channel="2" transcriber_start="1053.984" transcriber_end="1068.182">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words890)..id(EN2009c.C.words921)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.926" channel="2" transcriber_start="1080.896" transcriber_end="1083.289">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words922)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.928" channel="2" transcriber_start="1091.644" transcriber_end="1098.997">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words923)..id(EN2009c.C.words949)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.930" channel="2" transcriber_start="1112.64" transcriber_end="1119.726">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words950)..id(EN2009c.C.words974)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.932" channel="2" transcriber_start="1122.608" transcriber_end="1123.216">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words975)..id(EN2009c.C.words976)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.934" channel="2" transcriber_start="1130.055" transcriber_end="1134.427">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words977)..id(EN2009c.C.words990)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.936" channel="2" transcriber_start="1142.815" transcriber_end="1143.152">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words991)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.938" channel="2" transcriber_start="1147.193" transcriber_end="1147.38">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words992)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.940" channel="2" transcriber_start="1147.916" transcriber_end="1157.854">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words993)..id(EN2009c.C.words1013)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.942" channel="2" transcriber_start="1164.032" transcriber_end="1174.484">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1014)..id(EN2009c.C.words1052)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.944" channel="2" transcriber_start="1184.54" transcriber_end="1201.762">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1053)..id(EN2009c.C.words1095)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.946" channel="2" transcriber_start="1208.843" transcriber_end="1209.344">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1096)..id(EN2009c.C.words1097)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.948" channel="2" transcriber_start="1221.951" transcriber_end="1222.176">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1098)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.950" channel="2" transcriber_start="1223.679" transcriber_end="1238.546">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1099)..id(EN2009c.C.words1150)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.952" channel="2" transcriber_start="1244.094" transcriber_end="1247.088">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1151)..id(EN2009c.C.words1160)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.954" channel="2" transcriber_start="1250.959" transcriber_end="1251.508">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1161)..id(EN2009c.C.words1162)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.956" channel="2" transcriber_start="1260.809" transcriber_end="1261.334">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1163)..id(EN2009c.C.words1164)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.958" channel="2" transcriber_start="1263.968" transcriber_end="1264.958">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1165)..id(EN2009c.C.words1168)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.960" channel="2" transcriber_start="1276.263" transcriber_end="1280.624">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1169)..id(EN2009c.C.words1183)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.962" channel="2" transcriber_start="1285.289" transcriber_end="1286.32">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1184)..id(EN2009c.C.words1185)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.964" channel="2" transcriber_start="1289.132" transcriber_end="1301.098">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1186)..id(EN2009c.C.words1222)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.966" channel="2" transcriber_start="1305.696" transcriber_end="1310.557">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1223)..id(EN2009c.C.words1241)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.968" channel="2" transcriber_start="1315.15" transcriber_end="1324.12">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1242)..id(EN2009c.C.words1273)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.970" channel="2" transcriber_start="1325.05" transcriber_end="1325.349">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1274)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.972" channel="2" transcriber_start="1326.784" transcriber_end="1329.207">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1275)..id(EN2009c.C.words1281)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.974" channel="2" transcriber_start="1338.178" transcriber_end="1355.615">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1282)..id(EN2009c.C.words1328)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.976" channel="2" transcriber_start="1376.192" transcriber_end="1383.907">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1329)..id(EN2009c.C.words1348)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.978" channel="2" transcriber_start="1389.849" transcriber_end="1390.371">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1349)..id(EN2009c.C.words1350)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.980" channel="2" transcriber_start="1395.264" transcriber_end="1397.792">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1351)..id(EN2009c.C.words1354)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.982" channel="2" transcriber_start="1405.779" transcriber_end="1412.034">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1355)..id(EN2009c.C.words1383)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.984" channel="2" transcriber_start="1413.65" transcriber_end="1424.747">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1384)..id(EN2009c.C.words1415)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.986" channel="2" transcriber_start="1428.051" transcriber_end="1443.412">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1416)..id(EN2009c.C.words1466)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.988" channel="2" transcriber_start="1447.472" transcriber_end="1448.13">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1467)..id(EN2009c.C.words1468)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.990" channel="2" transcriber_start="1452.096" transcriber_end="1452.555">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1469)..id(EN2009c.C.words1470)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.992" channel="2" transcriber_start="1472.64" transcriber_end="1475.818">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1471)..id(EN2009c.C.words1473)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.994" channel="2" transcriber_start="1486.337" transcriber_end="1491.773">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1474)..id(EN2009c.C.words1491)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.996" channel="2" transcriber_start="1504.958" transcriber_end="1505.542">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1492)..id(EN2009c.C.words1493)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.998" channel="2" transcriber_start="1519.378" transcriber_end="1541.451">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1494)..id(EN2009c.C.words1572)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,000" channel="2" transcriber_start="1552.239" transcriber_end="1561.591">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1573)..id(EN2009c.C.words1605)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,002" channel="2" transcriber_start="1580.518" transcriber_end="1581.042">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1606)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,004" channel="2" transcriber_start="1591.735" transcriber_end="1592.303">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1607)..id(EN2009c.C.words1608)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,006" channel="2" transcriber_start="1604.443" transcriber_end="1605.028">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1609)..id(EN2009c.C.words1610)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,008" channel="2" transcriber_start="1613.025" transcriber_end="1613.288">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1611)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,010" channel="2" transcriber_start="1616.224" transcriber_end="1616.675">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1612)..id(EN2009c.C.words1613)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,012" channel="2" transcriber_start="1618.643" transcriber_end="1618.906">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1614)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,014" channel="2" transcriber_start="1619.151" transcriber_end="1619.719">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1615)..id(EN2009c.C.words1616)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,016" channel="2" transcriber_start="1631.015" transcriber_end="1631.797">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1617)..id(EN2009c.C.words1618)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,018" channel="2" transcriber_start="1639.576" transcriber_end="1642.819">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1619)..id(EN2009c.C.words1630)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,020" channel="2" transcriber_start="1652.225" transcriber_end="1653.443">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1631)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,022" channel="2" transcriber_start="1663.958" transcriber_end="1664.782">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1632)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,024" channel="2" transcriber_start="1674.081" transcriber_end="1675.821">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1633)..id(EN2009c.C.words1635)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,026" channel="2" transcriber_start="1720.005" transcriber_end="1721.289">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1636)..id(EN2009c.C.words1638)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,028" channel="2" transcriber_start="1724.82" transcriber_end="1729.611">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1639)..id(EN2009c.C.words1651)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,030" channel="2" transcriber_start="1766.676" transcriber_end="1776.705">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1652)..id(EN2009c.C.words1668)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,032" channel="2" transcriber_start="1779.774" transcriber_end="1780.111">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1669)..id(EN2009c.C.words1670)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,034" channel="2" transcriber_start="1780.579" transcriber_end="1787.599">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1671)..id(EN2009c.C.words1687)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,036" channel="2" transcriber_start="1793.07" transcriber_end="1793.802">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1688)..id(EN2009c.C.words1689)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,038" channel="2" transcriber_start="1803.694" transcriber_end="1810.497">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1690)..id(EN2009c.C.words1710)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,040" channel="2" transcriber_start="1812.806" transcriber_end="1817.376">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1711)..id(EN2009c.C.words1728)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,042" channel="2" transcriber_start="1817.899" transcriber_end="1819.06">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1729)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,044" channel="2" transcriber_start="1820.142" transcriber_end="1823.4">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1730)..id(EN2009c.C.words1733)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,046" channel="2" transcriber_start="1828.046" transcriber_end="1835.768">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1734)..id(EN2009c.C.words1756)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,048" channel="2" transcriber_start="1841.36" transcriber_end="1843.6">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1757)..id(EN2009c.C.words1766)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,050" channel="2" transcriber_start="1846.468" transcriber_end="1847.225">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1767)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,052" channel="2" transcriber_start="1849.657" transcriber_end="1855.205">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1768)..id(EN2009c.C.words1782)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,054" channel="2" transcriber_start="1868.244" transcriber_end="1874.042">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1783)..id(EN2009c.C.words1803)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,056" channel="2" transcriber_start="1874.613" transcriber_end="1875.249">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1804)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,058" channel="2" transcriber_start="1877.135" transcriber_end="1887.339">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1805)..id(EN2009c.C.words1835)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,060" channel="2" transcriber_start="1889.264" transcriber_end="1889.896">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1836)..id(EN2009c.C.words1838)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,062" channel="2" transcriber_start="1894.383" transcriber_end="1903.446">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1839)..id(EN2009c.C.words1865)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,064" channel="2" transcriber_start="1903.97" transcriber_end="1904.757">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1866)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,066" channel="2" transcriber_start="1916.965" transcriber_end="1917.508">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1867)..id(EN2009c.C.words1868)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,068" channel="2" transcriber_start="1922.513" transcriber_end="1924.992">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1869)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,070" channel="2" transcriber_start="1929.794" transcriber_end="1930.512">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1870)..id(EN2009c.C.words1871)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,072" channel="2" transcriber_start="1935.824" transcriber_end="1961.76">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1872)..id(EN2009c.C.words1959)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,074" channel="2" transcriber_start="1968.489" transcriber_end="1968.827">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1960)..id(EN2009c.C.words1961)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,076" channel="2" transcriber_start="1970.099" transcriber_end="1970.445">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1962)..id(EN2009c.C.words1963)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,078" channel="2" transcriber_start="1972.643" transcriber_end="1976.545">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1964)..id(EN2009c.C.words1983)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,080" channel="2" transcriber_start="1985.156" transcriber_end="1989.279">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words1984)..id(EN2009c.C.words2002)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,082" channel="2" transcriber_start="1991.414" transcriber_end="2000.624">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2003)..id(EN2009c.C.words2048)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,084" channel="2" transcriber_start="2011.728" transcriber_end="2013.425">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2049)..id(EN2009c.C.words2055)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,086" channel="2" transcriber_start="2017.238" transcriber_end="2031.841">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2056)..id(EN2009c.C.words2110)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,088" channel="2" transcriber_start="2038.112" transcriber_end="2039.147">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2111)..id(EN2009c.C.words2112)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,090" channel="2" transcriber_start="2042.379" transcriber_end="2047.648">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2113)..id(EN2009c.C.words2125)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,092" channel="2" transcriber_start="2060.023" transcriber_end="2069.795">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2126)..id(EN2009c.C.words2147)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,094" channel="2" transcriber_start="2071.416" transcriber_end="2072.126">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2148)..id(EN2009c.C.words2149)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,096" channel="2" transcriber_start="2077.887" transcriber_end="2079.765">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2150)..id(EN2009c.C.words2156)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,098" channel="2" transcriber_start="2084.553" transcriber_end="2085.516">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2157)..id(EN2009c.C.words2158)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,100" channel="2" transcriber_start="2094.336" transcriber_end="2100.919">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2159)..id(EN2009c.C.words2176)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,102" channel="2" transcriber_start="2102.65" transcriber_end="2110.352">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2177)..id(EN2009c.C.words2198)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,104" channel="2" transcriber_start="2113.57" transcriber_end="2115.699">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2199)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,106" channel="2" transcriber_start="2126.723" transcriber_end="2136.127">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2200)..id(EN2009c.C.words2224)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,108" channel="2" transcriber_start="2140.06" transcriber_end="2146.427">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2225)..id(EN2009c.C.words2242)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,110" channel="2" transcriber_start="2153.92" transcriber_end="2155.73">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2243)..id(EN2009c.C.words2250)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,112" channel="2" transcriber_start="2157.472" transcriber_end="2162.224">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2251)..id(EN2009c.C.words2269)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,114" channel="2" transcriber_start="2163.776" transcriber_end="2165.432">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2270)..id(EN2009c.C.words2273)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,116" channel="2" transcriber_start="2168.598" transcriber_end="2169.214">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2274)..id(EN2009c.C.words2275)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,118" channel="2" transcriber_start="2176.742" transcriber_end="2179.489">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2276)..id(EN2009c.C.words2284)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,120" channel="2" transcriber_start="2188.528" transcriber_end="2191.856">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2285)..id(EN2009c.C.words2299)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,122" channel="2" transcriber_start="2194.781" transcriber_end="2199.53">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2300)..id(EN2009c.C.words2314)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,124" channel="2" transcriber_start="2205.968" transcriber_end="2226.037">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2315)..id(EN2009c.C.words2364)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,126" channel="2" transcriber_start="2227.565" transcriber_end="2241.936">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2365)..id(EN2009c.C.words2409)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,128" channel="2" transcriber_start="2247.219" transcriber_end="2248.576">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2410)..id(EN2009c.C.words2413)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,130" channel="2" transcriber_start="2252.668" transcriber_end="2272.525">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2414)..id(EN2009c.C.words2487)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,132" channel="2" transcriber_start="2278.145" transcriber_end="2278.753">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2488)..id(EN2009c.C.words2489)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,134" channel="2" transcriber_start="2282.124" transcriber_end="2282.573">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2490)..id(EN2009c.C.words2491)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,136" channel="2" transcriber_start="2289.952" transcriber_end="2290.68">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2492)..id(EN2009c.C.words2493)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,138" channel="2" transcriber_start="2293.69" transcriber_end="2295.632">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2494)..id(EN2009c.C.words2499)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,140" channel="2" transcriber_start="2300.111" transcriber_end="2300.727">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2500)..id(EN2009c.C.words2501)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,142" channel="2" transcriber_start="2302.576" transcriber_end="2306.481">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2502)..id(EN2009c.C.words2512)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,144" channel="2" transcriber_start="2321.644" transcriber_end="2322.318">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2513)..id(EN2009c.C.words2514)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,146" channel="2" transcriber_start="2329.133" transcriber_end="2329.47">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2515)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,148" channel="2" transcriber_start="2331.125" transcriber_end="2331.543">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2516)..id(EN2009c.C.words2517)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,150" channel="2" transcriber_start="2343.589" transcriber_end="2349.186">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2518)..id(EN2009c.C.words2539)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,152" channel="2" transcriber_start="2361.936" transcriber_end="2372.221">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2540)..id(EN2009c.C.words2574)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,154" channel="2" transcriber_start="2375.239" transcriber_end="2384.141">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2575)..id(EN2009c.C.words2611)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,156" channel="2" transcriber_start="2390.784" transcriber_end="2421.641">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2612)..id(EN2009c.C.words2719)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,158" channel="2" transcriber_start="2426.62" transcriber_end="2430.244">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2720)..id(EN2009c.C.words2728)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,160" channel="2" transcriber_start="2437.203" transcriber_end="2438.291">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2729)..id(EN2009c.C.words2732)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,161" channel="2" transcriber_start="2438.291" transcriber_end="2453.52">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2733)..id(EN2009c.C.words2781)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,163" channel="2" transcriber_start="2456.432" transcriber_end="2456.93">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2782)..id(EN2009c.C.words2783)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,165" channel="2" transcriber_start="2459.942" transcriber_end="2466.5">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2784)..id(EN2009c.C.words2795)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,167" channel="2" transcriber_start="2490.084" transcriber_end="2490.767">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2796)..id(EN2009c.C.words2797)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,169" channel="2" transcriber_start="2505.414" transcriber_end="2506.27">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2798)..id(EN2009c.C.words2801)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,171" channel="2" transcriber_start="2518.547" transcriber_end="2531.094">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2802)..id(EN2009c.C.words2840)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,173" channel="2" transcriber_start="2540.897" transcriber_end="2563.44">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2841)..id(EN2009c.C.words2895)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,175" channel="2" transcriber_start="2568.512" transcriber_end="2569.264">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2896)..id(EN2009c.C.words2897)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,177" channel="2" transcriber_start="2573.103" transcriber_end="2573.677">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2898)..id(EN2009c.C.words2899)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,179" channel="2" transcriber_start="2584.064" transcriber_end="2585.085">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2900)..id(EN2009c.C.words2901)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,181" channel="2" transcriber_start="2611.991" transcriber_end="2612.597">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2902)..id(EN2009c.C.words2903)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,183" channel="2" transcriber_start="2615.576" transcriber_end="2616.4">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2904)..id(EN2009c.C.words2906)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,185" channel="2" transcriber_start="2627.309" transcriber_end="2627.716">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2907)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,187" channel="2" transcriber_start="2631.837" transcriber_end="2679.049">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words2908)..id(EN2009c.C.words3070)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,189" channel="2" transcriber_start="2683.088" transcriber_end="2683.973">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words3071)..id(EN2009c.C.words3072)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,191" channel="2" transcriber_start="2693.947" transcriber_end="2705.231">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words3073)..id(EN2009c.C.words3108)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,193" channel="2" transcriber_start="2708.288" transcriber_end="2709.81">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words3109)..id(EN2009c.C.words3112)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,195" channel="2" transcriber_start="2712.565" transcriber_end="2713.254">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words3113)..id(EN2009c.C.words3114)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,197" channel="2" transcriber_start="2723.568" transcriber_end="2724.496">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words3115)..id(EN2009c.C.words3118)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,199" channel="2" transcriber_start="2732.814" transcriber_end="2754.225">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words3119)..id(EN2009c.C.words3177)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,201" channel="2" transcriber_start="2758.55" transcriber_end="2759.075">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words3178)..id(EN2009c.C.words3179)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,203" channel="2" transcriber_start="2760.465" transcriber_end="2764.368">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words3180)..id(EN2009c.C.words3188)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,205" channel="2" transcriber_start="2777.146" transcriber_end="2778.367">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words3189)..id(EN2009c.C.words3192)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,207" channel="2" transcriber_start="2781.479" transcriber_end="2782.085">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words3193)..id(EN2009c.C.words3194)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,209" channel="2" transcriber_start="2793.194" transcriber_end="2793.904">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words3195)..id(EN2009c.C.words3196)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,211" channel="2" transcriber_start="2800.457" transcriber_end="2803.432">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words3197)..id(EN2009c.C.words3211)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,213" channel="2" transcriber_start="2816.419" transcriber_end="2817.223">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words3212)..id(EN2009c.C.words3213)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,215" channel="2" transcriber_start="2822.165" transcriber_end="2822.843">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words3214)..id(EN2009c.C.words3216)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,217" channel="2" transcriber_start="2828.357" transcriber_end="2836.005">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words3217)..id(EN2009c.C.words3241)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,219" channel="2" transcriber_start="2838.896" transcriber_end="2840.032">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words3242)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,221" channel="2" transcriber_start="2841.92" transcriber_end="2844.444">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words3243)..id(EN2009c.C.words3253)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,223" channel="2" transcriber_start="2853.004" transcriber_end="2853.725">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words3254)..id(EN2009c.C.words3255)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,225" channel="2" transcriber_start="2858.224" transcriber_end="2868.378">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words3256)..id(EN2009c.C.words3286)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,227" channel="2" transcriber_start="2885.73" transcriber_end="2892.004">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words3287)..id(EN2009c.C.words3297)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,229" channel="2" transcriber_start="2905.216" transcriber_end="2906.831">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words3298)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,231" channel="2" transcriber_start="2910.45" transcriber_end="2913.665">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words3299)..id(EN2009c.C.words3309)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,233" channel="2" transcriber_start="2917.929" transcriber_end="2925.27">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words3310)..id(EN2009c.C.words3320)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,235" channel="2" transcriber_start="2929.068" transcriber_end="2930.206">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words3321)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,237" channel="2" transcriber_start="2933.445" transcriber_end="2934.194">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words3322)" />
+   </segment>
+   <segment ns0:id="EN2009c.sync.1,239" channel="2" transcriber_start="2934.793" transcriber_end="2935.463">
+      <ns0:child href="EN2009c.C.words.xml#id(EN2009c.C.words3323)..id(EN2009c.C.words3326)" />
+   </segment>
+</segments>

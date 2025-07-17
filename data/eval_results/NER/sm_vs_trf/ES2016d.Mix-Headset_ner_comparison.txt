@@ -1,0 +1,30 @@
+📂 Comparing: ES2016d.Mix-Headset
+
+✅ In SM but not TRF (11):
+  17 -> [CARDINAL]
+  Button -> [GPE]
+  LCD -> [ORG]
+  Let's- Okay -> [ORG]
+  PowerPoint -> [ORG]
+  Two point four to eight -> [CARDINAL]
+  iPod -> [ORG]
+  six. -> [DATE]
+  the start of the day -> [DATE]
+  three -> [CARDINAL]
+  two point four -> [CARDINAL]
+
+❌ In TRF but not SM (8):
+  12.5 euros -> [MONEY]
+  PowerPoint -> [WORK_OF_ART]
+  iPod -> [PRODUCT]
+  my minutes -> [TIME]
+  swimsay -> [PERSON]
+  the start of the day -> [TIME]
+  three euros -> [MONEY]
+  under 12.5 euro -> [MONEY]
+
+📊 Summary for ES2016d.Mix-Headset:
+  Total SM entities:  39
+  Total TRF entities: 36
+  Matching entities:  28
+  Total mismatches:   19

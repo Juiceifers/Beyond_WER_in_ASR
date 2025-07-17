@@ -1,0 +1,24 @@
+📂 Comparing: ES2016b.Mix-Headset
+
+✅ In SM but not TRF (5):
+  15-year-old -> [DATE]
+  F8 -> [ORG]
+  Zepp -> [PERSON]
+  hundred -> [CARDINAL]
+  the 15 to 25 -> [DATE]
+
+❌ In TRF but not SM (8):
+  15 to 25 -> [DATE]
+  F8 -> [PRODUCT]
+  Zepp -> [ORG]
+  Zeppin -> [ORG]
+  a 15-year-old -> [DATE]
+  a hundred -> [CARDINAL]
+  only using 10% -> [PERCENT]
+  the minutes -> [TIME]
+
+📊 Summary for ES2016b.Mix-Headset:
+  Total SM entities:  30
+  Total TRF entities: 33
+  Matching entities:  25
+  Total mismatches:   13

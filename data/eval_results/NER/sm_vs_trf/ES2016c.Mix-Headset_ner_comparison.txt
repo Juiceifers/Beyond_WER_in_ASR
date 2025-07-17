@@ -1,0 +1,22 @@
+📂 Comparing: ES2016c.Mix-Headset
+
+✅ In SM but not TRF (7):
+  2P -> [CARDINAL]
+  Kryn -> [PERSON]
+  LCD -> [ORG]
+  One -> [CARDINAL]
+  dynamo -> [FAC]
+  iPod -> [ORG]
+  the minutes first -> [TIME]
+
+❌ In TRF but not SM (4):
+  Kryn -> [ORG]
+  a second -> [TIME]
+  iPod -> [PRODUCT]
+  the minutes -> [TIME]
+
+📊 Summary for ES2016c.Mix-Headset:
+  Total SM entities:  31
+  Total TRF entities: 28
+  Matching entities:  24
+  Total mismatches:   11

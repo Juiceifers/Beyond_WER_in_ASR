@@ -1,0 +1,217 @@
+---
+title: "Multivariate_Analysis"
+author: "Ishana Rana"
+date: "`r Sys.Date()`"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Multivariate Analysis
+The goal of this part is to analyze potential inter-metric correlations.
+
+## Loading datasets:
+```{r}
+bertscore <- read.csv("C:\\Users\\babus\\OneDrive\\Documents\\uni uzh\\FS25\\conversational speech processing\\mypaper\\Beyond-WER-in-ASR\\data\\eval_results\\BERTScore_scores.csv", skip=1)
+str(bertscore)
+head(bertscore)
+summary(bertscore)
+```
+
+```{r}
+bleu <- read.csv("C:\\Users\\babus\\OneDrive\\Documents\\uni uzh\\FS25\\conversational speech processing\\mypaper\\Beyond-WER-in-ASR\\data\\eval_results\\BLEU_scores.csv")
+str(bleu)
+head(bleu)
+summary(bleu)
+```
+
+```{r}
+# splitting dataset as it contains scores of ROUGE-1 and ROUGE-L
+lines <- readLines("C:\\Users\\babus\\OneDrive\\Documents\\uni uzh\\FS25\\conversational speech processing\\mypaper\\Beyond-WER-in-ASR\\data\\eval_results\\ROUGE_scores.csv")
+split_index <- grep("ROUGE-L", lines)
+
+rouge1_lines <- lines[2:(split_index - 1)]
+rougel_lines <- lines[(split_index + 1):length(lines)]
+
+rouge1 <- read.csv(text = rouge1_lines)
+rougel <- read.csv(text = rougel_lines)
+
+str(rouge1)
+head(rouge1)
+summary(rouge1)
+tail(rouge1_lines, 1)
+rouge1 <- rouge1[-nrow(rouge1), ]
+
+
+str(rougel)
+head(rougel)
+summary(rougel)
+```
+
+```{r}
+wer <- read.csv("C:\\Users\\babus\\OneDrive\\Documents\\uni uzh\\FS25\\conversational speech processing\\mypaper\\Beyond-WER-in-ASR\\data\\eval_results\\WER_scores.csv", skip=1)
+str(wer)
+head(wer)
+summary(wer)
+```
+
+## Analysis:
+```{r}
+library(ggplot2)
+#install.packages("corrplot")
+library(corrplot)
+```
+
+```{r}
+# specifying directory where the created plots shall be saved at
+plot_dir = "C:\\Users\\babus\\OneDrive\\Documents\\uni uzh\\FS25\\conversational speech processing\\mypaper\\Beyond-WER-in-ASR\\data\\eval_results\\R_code\\for_paper"
+dir.create(plot_dir, showWarnings = FALSE)
+```
+
+### Correlation Matrix
+
+#### Sidenote
+Because of the small sample size these results also lack statistical power.
+
+#### with punctuation:
+```{r}
+metrics_df_with_punct <- data.frame(
+  File = wer$File,
+  WER = wer$with_punct,
+  BLEU = bleu$with_punct,
+  ROUGE1 = rouge1$with_punct,
+  ROUGEL = rougel$with_punct,
+  BERTScore = bertscore$with_punct
+)
+metrics_df_with_punct
+```
+
+```{r}
+# Compute correlation matrix (Spearman is more robust for small samples)
+cor_matrix_with_punct <- cor(metrics_df_with_punct[,-1], method = "spearman")
+print(cor_matrix_with_punct)
+# save output to image:
+png(file.path(plot_dir, "with_punct_corr_matrix_circle.png"), width = 1000, height = 800, res = 150)
+corrplot(cor_matrix_with_punct, method = "circle", type = "upper", tl.cex = 0.8)
+dev.off()
+
+png(file.path(plot_dir, "with_punct_corr_matrix_number.png"), width = 1000, height = 800, res = 150)
+corrplot(cor_matrix_with_punct, method = "number", type = "upper", tl.cex = 0.8)
+dev.off()
+
+```
+
+#### without punctuation:
+```{r}
+metrics_df_without_punct<- data.frame(
+  File = wer$File,
+  WER = wer$without_punct,
+  BLEU = bleu$without_punct,
+  ROUGE1 = rouge1$without_punct,
+  ROUGEL = rougel$without_punct,
+  BERTScore = bertscore$without_punct
+)
+metrics_df_without_punct
+```
+
+```{r}
+cor_matrix_without_punct <- cor(metrics_df_without_punct[,-1], method = "spearman")
+print(cor_matrix_without_punct)
+
+# save output to image:
+png(file.path(plot_dir, "without_punct_corr_matrix_circle.png"), width = 1000, height = 800, res = 150)
+corrplot(cor_matrix_without_punct, method = "circle", type = "upper", tl.cex = 0.8)
+dev.off()
+
+png(file.path(plot_dir, "without_punct_corr_matrix_number.png"), width = 1000, height = 800, res = 150)
+corrplot(cor_matrix_without_punct, method = "number", type = "upper", tl.cex = 0.8)
+dev.off()
+```
+
+
+# Testing Correlation Significance
+#### with punctuation:
+
+```{r}
+cor.test(metrics_df_with_punct$WER, metrics_df_with_punct$BERTScore, method = "spearman")
+cor.test(metrics_df_with_punct$WER, metrics_df_with_punct$ROUGE1, method = "spearman")
+cor.test(metrics_df_with_punct$WER, metrics_df_with_punct$ROUGEL, method = "spearman")
+cor.test(metrics_df_with_punct$WER, metrics_df_with_punct$BLEU, method = "spearman")
+
+```
+The results show that WER has:
+- strong negative relationship with BERTScore but is statistically not significant
+- has moderate negative correlations with ROUGE-1, ROUGE-L and BLEU but is statistically also not significant
+
+```{r}
+cor.test(metrics_df_with_punct$BLEU, metrics_df_with_punct$ROUGE1, method = "spearman")
+cor.test(metrics_df_with_punct$BLEU, metrics_df_with_punct$ROUGEL, method = "spearman")
+```
+These results show that BLEU has:
+- perfect positive correlation with ROUGE-1 that is also statistically significant
+- moderate strong positive relation with ROUGE-L but not statistically significant
+
+```{r}
+cor.test(metrics_df_with_punct$ROUGEL, metrics_df_with_punct$BERTScore, method = "spearman")
+```
+This test shows that there is no correlation at all, indicating they capture different linguistic phenomena.
+
+
+
+#### Without punctuation:
+For this condition, the pairs that showed some difference to the "with_punct" ones were tested. None of them showed any statistically significant correlation.
+```{r}
+cor.test(metrics_df_without_punct$WER, metrics_df_without_punct$BLEU, method = "spearman")
+```
+
+```{r}
+cor.test(metrics_df_without_punct$BLEU, metrics_df_without_punct$ROUGEL, method = "spearman")
+cor.test(metrics_df_without_punct$BLEU, metrics_df_without_punct$BERTScore, method = "spearman")
+```
+
+```{r}
+cor.test(metrics_df_without_punct$ROUGEL, metrics_df_without_punct$BERTScore, method = "spearman")
+```
+
+
+# Plotting Images for paper:
+```{r}
+metrics_df_with_punct <- data.frame(
+  File = wer$File,
+  WER = wer$with_punct,
+  BLEU = bleu$with_punct,
+  ROUGE1 = rouge1$with_punct,
+  ROUGEL = rougel$with_punct,
+  BERTScore = bertscore$with_punct
+)
+metrics_df_with_punct
+
+metrics_df_without_punct<- data.frame(
+  File = wer$File,
+  WER = wer$without_punct,
+  BLEU = bleu$without_punct,
+  ROUGE1 = rouge1$without_punct,
+  ROUGEL = rougel$without_punct,
+  BERTScore = bertscore$without_punct
+)
+metrics_df_without_punct
+
+
+cor_matrix_with_punct <- cor(metrics_df_with_punct[,-1], method = "spearman")
+cor_matrix_without_punct <- cor(metrics_df_without_punct[,-1], method = "spearman")
+
+png(file.path(plot_dir, "combined_corr_matrix_circle.png"), width = 1000, height = 1600, res = 150)
+par(mfrow = c(2, 1))  # 2 rows, 1 column layout
+
+corrplot(cor_matrix_with_punct, method = "circle", type = "upper", tl.cex = 0.8,
+         title = "With Punctuation", mar = c(0,0,2,0))  # add margin space for title
+
+corrplot(cor_matrix_without_punct, method = "circle", type = "upper", tl.cex = 0.8,
+         title = "Without Punctuation", mar = c(0,0,2,0))
+
+dev.off()
+
+
+```

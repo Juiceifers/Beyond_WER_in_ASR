@@ -1,0 +1,477 @@
+Yep . Soon as I
+get this .
+Okay . This is our last meeting .
+Um I'll go ahead and go through the minutes from the previous meeting . Uh and then we'll have a , the prototype presentation . Um then we will um do an evaluation . Uh or we'll see what , what we need to have under the criteria for the evaluation . Then we'll go through the finance and see if we fall within the budget .
+Um then we'll do the evaluation , and then we can finish up after that with um any changes that we'll need to make , or hopefully everything will fall right in line .
+Um let's see , minutes from the last meeting . Um we looked at uh the the trends . We had uh the fashion trends that people want a fancy look-and-feel . It was twice as important as anything else . Um they liked fruit and vegetables in the new styles .
+Um and a spongy feel . So we were talking about trying to incorporate those into our prototype . Um they wanted limited buttons and simplicity . Um then we looked at the uh the method for coming up with our own remote . Um looking at other other devices . Um the iPod , we really liked the look of that .
+Um we also had uh the kid's remote for a simple idea . Um a two part remote , which was what were were originally looking at . Uh and then um there was talk of spee uh speech recognition um becoming more uh predominant and easier to use . But I think we've still decided not to go with that . Then we looked at the components um
+the materials for the case , the different energy sources , the different types of chips , um and made a decision on what we were going to use to make our remote . Um and basically
+how , what were making for the prototype . So I'm going to leave it at that and let you guys take over .
+The prototype yeah . Do you need a this ?
+Okay . .
+but
+Very nice . , where you , where you'd
+Mm-hmm . , so yeah much make much difference
+What but what's that button ? not do it at all Just
+Uh , 'kay . on-off button .
+'Kay . Right
+um
+Would you like to uh Right . , but
+Well done .
+Well luckily we are going to find out .
+Or not luckily . Um do you have a marketing presentation for us . I do .
+I think it's definitely different than anything else out there . So if they think that what is out there is ugly , then yes I would say , I would say most definitely . It's bright . Yeah . I would . It's Mm .
+It still has your traditional black .
+Yep , not angular . it .
+Mm . pretty much by the company
+Yep . uh to .
+, definitely Yeah
+Yeah something more modern to go a a modern colour to go with the modern form . Right . Right
+Yeah . Yeah ?
+I would say Five
+four . Yeah ? Four is fair . Okay .
+Very non-committal , four . .
+Yeah . , 'kay
+Mm-hmm . . channel and volume
+S scrolling through and selecting a few . scrolling further . Yeah .
+I think that's a one .
+lose anymore . Yeah . It's bright Whether you want
+So if we incorporate speech recognition into it then it could mentioned . Just just to use
+And it is quite bright and what Yeah
+Uh S Okay .
+Yeah . , I mean a million
+But if we do go with the , with the speech recognition , then it , then our scale goes up quite a bit I think . Oh yeah Mm .
+Probably two . You know . If we eliminate the fact that you know it's impossible to guarantee that it's not gonna be lost then . Yeah .
+I'd say two .
+With the speech recognition , which of course may
+be changed depending on budget .
+Which , which may be cheaper than speech recognition if it were just a so far . Yes . Yeah
+it's you have . They're cheap .
+Some sort of proximity technology for suitcases Yeah .
+Pray that you don't accidentally lose that piece . Right . That'd be tough then
+Yeah
+Okay .
+Two . . ? Two , 'kay .
+It's comes down to technology . But we yeah .
+But there's not a lot of yellow , there's not a lotta yellow . Course that wasn't really we were kinda forced to take that colour . right right right right . Fa But for remotes yeah .
+I don't know that we are that innovative , to tell you the truth . Yeah not really . 'cause it's stolen . No maybe not . But
+If we added the screaming factor then we go up . Um I would say we're probably at four . Right . so many . Really
+We have some spongy , yeah . that , kind of , sort Yeah as much as
+No . . One would be the
+Yeah . Because it's only got what , these parts are the grips and perhaps the back side the bottom the underneath on the back . to fold and stuff . Yeah . Yeah .
+Probably a four at most . at most .
+Possibly even a five . And lastly
+Y yes
+If your fashion is b is Carmen Miranda , you betcha . . More Yeah . did .
+It's true . and the way you operate
+Seven is .
+Two point
+two point four ? Is that some long division
+Something . Well I haven't done math
+And what what is the acceptable criteria ?
+Is there like a scale that we have to hit ? Oh no
+it
+Alright then .
+Okay . Well , let's see .
+Now we get to do the budget numbers . You didn't know that you were gonna have a budget .
+But we do .
+Okay . Yeah . Yeah
+So I have here an Fifty percent Not too shabby .
+Yeah .
+We want a fifty percent profit on this . Oh you can't really see that very well .
+Twelve and a half Euros is what supposed to cost us . Okay , so
+Well let's see . The f the Um
+Wonder if I can make this
+What the
+Oh it won't let me do that .
+Okay .
+Alright so at top , I don't know if you guys can read that or not . I can't 'cause I don't have my glasses on , but so we've got the energy source . There's uh four , five , six categories . We have energy source , electronics , case . Then we have case material supplements , interface type , and then button supplements . Battery .
+Okay so
+Uh first of all energy source , we picked battery .
+Um and how many batteries do we think this will probably take ? Probably
+some e either two or four .
+Two ?
+Like it . At four it's gonna
+Excellent . They won't know until after they
+This is consumerism . Alright so for the electronics our choices are simpl simple chip-on-print , regular chip-on-print , advanced chip-on-print , sample sensor , sample speaker . .
+'Kay , we have one of those .
+'Kay then the case is a
+Probably it's double curved . Double curved , yes
+Case materials are plastic . Plastic .
+Um I guess it's two , since one for the top , one for the bottom . Is that right or is it just one ? N no
+Maybe it's one because of the one .
+'Kay . . Yeah
+I guess it doesn't matter 'cause the price on that one is zero , which is nice . Special colour ? Exactly , right . Oh .
+Interface type . We have pushbutton , scroll-wheel interface , integrated scroll-wheel pushbutton , and an L_C_D_ display . , but it's not special . S S That's Yeah
+So we actually have the L_C_D_ display
+and then is it the integrated or is it I'd say the integrated
+Yeah . unfortunately
+'Kay . Button supplement ? Special colour ? Um special form ? Special material . Mm .
+. Say mahogany or so
+Or titanium . They cost us all the same . Mm-hmm or titanium . remote . Yeah .
+Well we only have one button so really we shouldn't be charged , we shouldn't be charged anything for the the button supplements . just . No that's getting a bit tiny .
+Um
+Okay . We're gonna leave that one blank because we run on a L_C_D_ and scroll . So our total is fifteen point five .
+Which I believe is Yeah that's too much .
+by three Euros over .
+huh ?
+So the only thing better than um a banana-shaped remote is one that you shake . If it w What
+Yeah 'cause the
+Well 'cause we have to have both right ? Yeah
+Mm-hmm . . So
+So we may not need the L_C_D_ display ? Uh
+Well there we go . Twelve point five . . Perfect . There we go . Perfect .
+Okay .
+So we just remove our
+screen here . . Make it a bigger
+.
+Besides look at what the L_C_D_ does to our lovely remote .
+Back to the design room boys . So
+. .
+Okay so the costs under twelve point five Euro . Was no . We redesigned it . Now it's yes . Next slide . Project evaluation . Uh project process , satisfaction with , for example , room for creativity , leadership , teamwork , means , new ideas found . Um Yeah .
+So
+I guess that
+Let's see here .
+I think that perhaps the project evaluation's just supposed to be completed by me . But
+I'd like to hear your thoughts .
+Fair enough Trying to fill in some time there
+Uh h what did you think of our project process ? .
+. yeah I think we did
+Good . Good teamwork
+Yeah I think We sort of knew where
+we st we started off a little little weak . Our leadership was quite weak in the beginning . Um um straight away I thought .
+But as the day went along we had more idea of what we were doing .
+Um room for creativity ? There was that . Um I
+think we tried a lotta different things and um
+I think it was um interesting as you guys brought up more um information and studies that we were right on with a lot of those things .
+Um you guys worked together well as a team . And um the means ?
+Which was the whiteboard and the pens . Yeah . We've used the whiteboard .
+I had some problem with the pen I think , but minus your p Well that's not my Minus your PowerPoint fiasco .
+Well that work yeah
+just you
+Have a we have a list of employees that you would like fired . Heads are gonna roll , believe me .
+Okay . N new ideas found ? Um
+Yes for the remote . Maybe no not f for
+technology . .
+Alright . Closing . Costs are within the budget . Project is evaluated .
+Um complete the final questionnaire and meeting summary . That's it .
+And I still have to do my minutes for the last meeting .
+Actually .
+Um so there will probably be another
+questionnaire coming up .
+And then we'll have to check with the main boss whether we can , what goes on after that . But that's the end of our meeting . . a while though .
+Can try to plug that in there but There is our remo
+Right . That's what we have there . That's plastic . Plastic covered with rubber . We might anything you want to add ?
+Mm-hmm . uh add some more underneath here . Maybe give it , give it a form . I mean you're supposed to hold it like that , but um just if you grab it , take it from somewhere , so yeah , you have some rub yeah . Exactly , use both . Might as well think about Yeah . Doesn't make much make much difference . You could work left-handed or right-handed I suppose . T the actual thing might be
+Th think about the button as well . Like either put either one one on either side or . Yeah .
+what's that button ? Uh , 'kay . not do it at all . It's a quick on-off button . That's um Just the on and off .
+yeah I think it's pretty important . So you don't have to fiddle with that .
+. Right ? Um that's not um I'd say a bit smaller would probably be nice . You wanna play with that over there . There you go . Yeah . It's you
+to uh Right .
+. Um
+?
+Yep , not angular . angles to it .
+I'd say , when it comes to the ergonomics , the form and stuff , yes that's definitely more beautiful than your average . However the colour , we don't have a say in that . Yeah I think the colours detract a little
+Mm . Yep . That has been , that has been dictated pretty much by the company . So uh to answer that honestly I would rather say like uh , we have not solved the problem completely with the ugly remote because the colour is ugly , definitely . 'S nothing you can say about that . I mean I much prefer something like brushed chrome with that form . But say it . Yeah . Yeah . Yeah . . That's true . Yeah .
+a a modern Right .
+Right . It's different . You don't want your uh
+three feet huge L_C_D_ dis display in your living room that's hanging from the wall to be controlled with something like that .
+Yeah .
+What do you think
+. Very non-committal Yeah . is fair . Okay .
+It's very intuitive , I think yeah .
+S give it a one . aim , one of the main aims that we had . One
+Mm-hmm Right . , which are channel
+. Right . .
+So that's a one . one ? Yeah
+Something that big and that yellow you just don't lose anymore . Yeah complaints . Whether
+. Bright yellow's hard to lose . But um if we were to , you're not gonna lose it .
+Oops . don't think you'd
+Hmm . it's not gonna fall
+And it is quite bright Well what
+Uh S Okay .
+Mm . true .
+I think . Probably two Oh yeah . You probably Yeah .
+Mm .
+With the
+Y you could add an extra feature actually .
+Which makes this thing
+raise hell when you remove it too far from the television .
+Which , which may We could add that but that's nothing we have thought of so far .
+were just a Yes .
+It's it's key rings you have . They're cheap ? Yeah .
+Some sort of proximity Um the it's based on this anti anti-theft technology for suitcases and stuff , where you have one piece that's attached to your luggage , another piece that starts beeping . That can't cost much . expensive . Yeah .
+So that can also easily be integrated because these things are small enough to to hide , so you have one piece , you have to glue somewhere behind your stick it behind your T_V_ and the other stick it on the T_V_ .
+. Right . That'd be tough then . Well also your remote would uh alarm you if somebody stole you t your television , yeah . Ran off with it without taking the beautiful remote control .
+Okay . Let's add one of those features and say yes . ? gonna say okay . So we're back to a one
+Two . Two . . ? Two , 'kay .
+Uh
+so
+It's all just remote controls
+It's But there's not a lot of yellow , there's not a lotta yellow . Course that wasn't really we were kinda forced to take It's all just stolen technology when it comes down to right right right right . Yeah it's stolen technology . But we have . Fa From iPod yeah . But for remotes yeah .
+you the truth . Yeah not really . not . But
+If we added ? Not so many
+. Um Right .
+We have some spongy , yeah . Yeah well you have that , kind of , sort of . Yeah as much as
+No . It's not a one though . One would be the whole thing
+got what to fold and stuff .
+the bottom Yeah .
+Probably a four So that's a four at most .
+If your fashion Y yes . More Yeah . I'd say we did
+, you betcha Yeah
+It's true . Well the recent fashion is rather displayed in the in the L_C_D_ and the way you operate it than the form and the colour , but it definitely is On the Yeah . Be what we
+.
+two
+I'm impressed . I can't do that without a calculator . No I can't do long very impressive . It's been a while .
+pick my own criteria and have you guys evaluate
+So I have here an Yeah . We want a fifty percent Fifty percent , you're kidding . P Not too shabby .
+It's too much .
+let's see Um
+Uh
+. I can't 'cause I don't have my glasses
+four Battery .
+Two Two .
+. At four it's gonna be too heavy , so that that's not our problem . People can change it every month .
+Excellent . They won't know until after they bought it .
+This is consumerism
+, sample sensor
+That's the advanced chip-on-print , yeah . ?
+double curved . Double curved , yes .
+plastic Plastic .
+. Is that right or is it just one ? Maybe it's one because N no . No that's just one .
+'Kay It's just one mo single mould , we can do that . Yeah
+, which is nice . Special Exactly , right . Oh .
+That's not a special colour . It's a specially ugly colour , but it's not special . Bright yellow .
+, integrated scroll-wheel S
+Yeah . Yes unfortunately . .
+We could of course make the buttons wood . Say mahogany or so
+Or titanium . They cost us all Mm-hmm or titanium . . Yeah .
+Well we only have Uh just .
+really we shouldn't be charged , we shouldn't be charged anything for the No that's getting a bit tiny
+is Yeah that's too much .
+It's hard to believe .
+So we'll go for the hand dynamo huh ?
+took out the the one single button we've got
+Mm-hmm . I mean let's let's face it , it also depends on the software on the on the television . You can have the the information that this thing transmits be being displayed on the on the screen . So s yeah let's take away the Yeah . Yeah you could maybe take
+Yeah . Yeah . display even , if it if it
+So Right .
+Right . We may not need it .
+Well there we go There you go . Perfect . There we go
+screen Screen
+. Easier to use
+Besides look at what the L_C_D_ does to our lovely remote . Back to the design Okay , the
+So we can just
+take away a heck of a lot of the there you go . .
+central ? Oh that's just yeah . That was just we ran out of yellow What's the blue part ? Oh that's the batteries . Okay
+There you go . Oops . There you go . Even
+There you go . One more criteria . all those fruit lovers out there .
+Uh Fair enough . Trying to fill in some time there .
+Great . I think we did yeah I think we
+Yeah .
+Just half a day , you have a remote . There you go . Yeah . Right .
+I Super super .
+minus your p Well Well that's not my fault . That's obviously the people I work for uh that work for me , uh they've just you know fiasco . No I know . I'm yeah . Incom
+Have a we have a list of employees Heads are gonna roll , believe me .
+Yes yes .
+we'll have to check with the though
+The prototype The prototype discussion .
+Okay No .
+Can try to plug that in there but There is our remo the banana . Um yeah basically we we st went with the colour yellow . Um working on the principle of a fruit which was mentioned , it's basically designed around a banana . Um but it would be held in such a fashion , where it is , obviously it wouldn't be that floppy 'cause this would be hard plastic .
+Very nice . These would be like the rubber , the rubber grips . So that's so that would hopefully help with grip , or like the ergonomics of it . Um but all the controlling would be done with this scroll wheel . You have to use your imagination a little bit . And this here represents the screen , where you , where you'd go through .
+And the the simplest functions would be um almost identical to an iPod , where that one way ch through channels , that way th other way through channels . Volume up and down . And then to access the more complicated functions you'd you sorta go , you press that and go through the menus . It's that that simple . That just represents the infrared uh beam .
+Right . That's That's a simple on and off switch . Um I don't know , we could use the voice . T that blue bits should be yellow , d that that'd be where the batteries would be I suppose . And um that's about it . It's as simple as you , we could make it really . Is there anything you want to add ?
+Mm-hmm . it from somewhere , so yeah , you have some rub yeah . Exactly Yeah . Doesn't make much make much difference . You could work left-handed or right-handed I suppose .
+think about Th think about the button as well . Like either T the actual thing might be smaller . Yeah .
+? Uh . It's a quick on-off Just the on and off .
+. You Yeah .
+Would you like to go . Right It's you know it's flimsy 'cause it's made out of heavy Play-Doh , but
+And whether or not it would fall into the cost everything I suppose . With the scroll and the L_C_D_ .
+I think it's .
+else out there Yeah .
+I would say , I would I would .
+. It's bright . It's
+It's curved . It's not there's no sharp
+Yep angles to it .
+That has been , that has Some people might say it . Yeah . bit .
+Yeah .
+with Yeah .
+. Yeah . ?
+S Yeah . I think that was the main aim , one of the main aims that we had .
+Mm-hmm . S scrolling through and selecting a few Right . Uh yeah . 'Cause we've we've brought it down to basically four controls most common , which are channel and volume . And then the other ones are just a matter of just going , just scrolling further . Yeah . I'd say that
+So if we don't lose anymore . Yeah . It's bright yellow . Bright yellow's hard to lose . But um if we were to , if we were , that , the speech recognition . That , we could maybe just use that solely for the the finding thing . That was what we'd we'd mentioned . Whether you want to or not , you're not gonna lose it .
+it could Oops . Hmm . Just just to use , to find it when it was lost . But like I said , like I don't think you'd lose something so yellow so easily . And it's not gonna fall , like a rectangle would slip down behind things . That's gonna be a difficult shape to
+and Yeah . Maybe in the middle again , three or four or something ?
+Yeah . Mm I mean you know loo losing things is one of those things that people can lose , I mean a million ways . You can pick it up and walk away with it and then you've lost it . That's true
+. Probably . You probably Yeah .
+gonna be lost then Yeah .
+Yeah .
+Yeah .
+It's it's Yeah true . But I mean d just those whistling , clapping key rings you have . They're cheap . So it can't be that Annoying alarm or something ? Yeah .
+based on this anti expensive .
+of proximity technology Yeah .
+. Yeah .
+somewhere behind your stick it behind your T_V_ and stick it on the T_V_ .
+Right
+Yeah .
+Two Two Two . ? Two
+It's all just I'd say so . Uh don't get many mo remote controls with
+screens on .
+It's technology when it comes down to Yeah it's stolen technology . But we have . From iPod yeah .
+. Course that wasn't right Fa
+I don't know that we are that innovative , to tell you the truth Yeah 'cause it's stolen . No maybe not .
+? Not
+, yeah . , kind of , sort of . Yeah as much as as needed , I think .
+on the back . Yeah .
+Yeah . I'd say
+, you betcha . Yeah .
+the in the L_C_D_ On the
+the form Yeah .
+Be what we were told , and they'd say yeah , definitely .
+Seven
+? Is that some long division ? No .
+Just , I'm sure there's a . Okay we'll say two point four
+No I can't do long very impressive . It's been a while
+. Yeah . Yeah so . You'd been going a long time dividing that . It's two point four two eight five se it just keeps going on . Oh
+Two point four two basically . .
+. Charge about three hundred quid for it .
+probably take ? Probably
+That's the We're advanced chip are we ?
+. . Yeah yeah . Right
+, but it's not special .
+pushbutton S
+, and an L_C_D_ That's
+Yeah .
+And then
+or is it Yes I'd say the integrated .
+Mm .
+all the same . Well we only have . Uh just remote control .
+, we shouldn't be charged anything No that's getting a bit
+the tiny .
+Yeah . I'd ignore that .
+a banana-shaped If it w
+What if we completely took out the the one single button we've got on . And just had a scroll wheel interface . And the L_C_D_ display . I suppose the L_C_D_ C_ display's the one that's pushing it up a bit though .
+Yeah .
+on the television Yeah .
+away the Yeah . Yeah . Yeah you could maybe take out the L_C_D_ dis display even , if it if it comes up on the computer itsel on the T_V_ itself .
+? Uh that is possible yeah .
+. Twelve . There we go .
+screen here . Screen . Make it a bigger dial . Easier to use . Even easier to use then .
+does
+central ? Oh that's just yeah . That was just we ran out of yellow . ? Oh that's the batteries . Okay
+you go . Oops . There you go . Even simpler .
+There you go . One more criteria . Yeah . For all those fruit lovers out there .
+. Now it's yes Yeah .
+Good . Great . Yeah . I think we did yeah I think we did quite well . Um Good teamwork
+. There you go . Yeah . Right from the start of the day . .
+I think we st We sort of knew where we were going straight away I thought .
+was the whiteboard and the pens . Super Yeah . We've used the whiteboard .
+they've just
+a list of employees .
+. Yes
+technology Technology used .
+Excellent .
+plug that in there but remo the banana
+but it would be held
+button . That's um
+It's you know it's flimsy 'cause it's made out
+Pretty impressive .
+Kind of a banana .
+. Um do you have a marketing presentation I do .
+Okay . You guys are gonna help me do an evaluation of the criteria .
+Um .
+Okay .
+So first I'll just discuss some of the criteria that I found . Just based on the past trend reports that I was looking at earlier . And then we'll do a group evaluation of the prototype . And then we will calculate the average score to see how we did .
+Um so the criteria we're gonna be looking at are the complaints um that we heard from the users who were interviewed earlier . So
+we're gonna be doing it based on a seven point scale .
+And one is going to mean true , that we did actually achieve that . With seven being false , we did not achieve that .
+Okay .
+So for the first one , we need to decide , did we solved the problem of the users who complained about an ugly remote ?
+definitely different Mm .
+I would say , I would I would .
+Mm .
+, when
+, we don't have a say in that . That has Some people might say Yeah I think the colours detract a little bit .
+That's true .
+with the ugly remote Yeah .
+Um okay so , do you think , since we
+Yeah Yeah . This was a a sign criteria , do you think maybe we should put it somewhere in the middle then ? Does that sound good ?
+What do you think ? Three ? Four ?
+I would say four . Yeah Five ? Four is fair . Okay .
+Okay , the second one . Did we make it simple for new users ?
+Yeah . . One , 'kay .
+Okay . Um , do the controls now match the operating behaviour of the users ?
+. 'Cause we've we've I'd say that
+I think that's a one . So that's a one . So one ? Yeah ?
+Okay .
+Something that big Okay um the fourth one . How about the problem of a remote being easily lost ? One of the number one complaints .
+don't lose anymore . Yeah . It's bright yellow . Bright yellow's hard to lose . But um Whether you want to or not , you're not gonna lose it .
+Yeah
+Uh S Okay .
+Mm . it . That's true .
+do go with the Mm .
+With
+It's it's . But I mean d just those whistling , clapping key rings you have Annoying alarm or something ? Yeah .
+Right
+So . Are we adding one of these
+Let's add one of those features and say yes two features ? gonna say okay .
+Two . . Two . Two . So we're back to a one ? Or a two ? Two , 'kay .
+Okay . Are we technologically innovative ?
+It's technology when it comes down to Yeah it's stolen technology . But we From iPod yeah .
+But there's not a lot of yellow , there's not a lotta yellow right But for remotes yeah .
+Two ? Three ?
+If we added the screaming But how many remotes do you see like this ? Not so many .
+Really ? Okay . That's gonna hurt us . Okay . Um spongy material ?
+'Kay .
+Possibly even a five . And lastly , did we put the fashion in electronics ?
+If your fashion . More Yeah . I'd say we did .
+, you betcha Yeah
+. 'Kay .
+Alright . Now we just gotta calculate . Six eight twelve sixteen .
+Seventeen divided by s
+is Eight .
+Something . Well I haven't done math in years .
+Just What two I dunno .
+. Okay we'll say two point four two .
+Right ?
+How does that look ?
+. No I can't do long very impressive . It's been a while .
+to hit ? Oh no . They just told me to
+pick my own criteria and have you guys evaluate it basically .
+So that's that .
+.
+on . Two Oh my god . Okay .
+Yeah we'll go with that .
+So I have here Not too shabby .
+Excellent . They won't know until after they bought
+I yeah . Right .
+nice , right Oh .
+. It's a specially ugly Bright yellow .
+, but it's not special .
+the
+. Say
+Or titanium . They cost us all Mm-hmm or titanium . It'd look really lovely . Yeah .
+only have one button so really we shouldn't be charged , we shouldn't . No
+Yeah
+Okay Leave it blank .
+?
+. What if we completely
+'cause the
+. Twelve point five . go . Perfect .
+screen here . Make it a
+Besides
+does to our lovely remote . Okay
+. So
+central ? Oh that's just yeah . That was just we ran out of yellow . What's the blue part ? Oh that's the batteries . Okay .
+simpler .
+Looks more like a banana .
+more criteria . out there .
+. Next
+Fair enough Trying to fill in some time there .
+Good . Just half a day , you have a remote . There you go . Yeah Good teamwork .
+, but minus your Well Minus your PowerPoint fiasco .
+Well obviously the people I work for uh that work for me , uh they've just you know No I know . I'm yeah . Incom
+we have a list of employees that you would like fired . , believe me . Yes yes .
+Mm . Kinda .
+the last meeting
+And then we'll have to check with the . We might have a while though .

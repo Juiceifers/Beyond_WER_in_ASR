@@ -1,0 +1,677 @@
+---
+title: "Beyond_WER_Paper_Results_Visuals"
+author: "Ishana Rana"
+date: "`r Sys.Date()`"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Visualizing Individual Results
+
+## 1) Loading the datasets
+```{r}
+bertscore <- read.csv("C:\\Users\\babus\\OneDrive\\Documents\\uni uzh\\FS25\\conversational speech processing\\mypaper\\Beyond-WER-in-ASR\\data\\eval_results\\BERTScore_scores.csv", skip=1)
+str(bertscore)
+head(bertscore)
+summary(bertscore)
+```
+```{r}
+bleu <- read.csv("C:\\Users\\babus\\OneDrive\\Documents\\uni uzh\\FS25\\conversational speech processing\\mypaper\\Beyond-WER-in-ASR\\data\\eval_results\\BLEU_scores.csv")
+str(bleu)
+head(bleu)
+summary(bleu)
+```
+```{r}
+# splitting dataset as it contains scores of ROUGE-1 and ROUGE-L
+lines <- readLines("C:\\Users\\babus\\OneDrive\\Documents\\uni uzh\\FS25\\conversational speech processing\\mypaper\\Beyond-WER-in-ASR\\data\\eval_results\\ROUGE_scores.csv")
+split_index <- grep("ROUGE-L", lines)
+
+rouge1_lines <- lines[2:(split_index - 1)]
+rougel_lines <- lines[(split_index + 1):length(lines)]
+
+rouge1 <- read.csv(text = rouge1_lines)
+rougel <- read.csv(text = rougel_lines)
+
+str(rouge1)
+head(rouge1)
+summary(rouge1)
+
+str(rougel)
+head(rougel)
+summary(rougel)
+```
+
+```{r}
+wer <- read.csv("C:\\Users\\babus\\OneDrive\\Documents\\uni uzh\\FS25\\conversational speech processing\\mypaper\\Beyond-WER-in-ASR\\data\\eval_results\\WER_scores.csv", skip=1)
+str(wer)
+head(wer)
+summary(wer)
+```
+
+## 2) Individual Analysis of each metric
+```{r}
+library(ggplot2)
+library(tidyr)
+library(dplyr)
+#install.packages("patchwork")
+library(patchwork)
+```
+
+
+```{r}
+# specifying directory where the created plots shall be saved at
+plot_dir = "C:\\Users\\babus\\OneDrive\\Documents\\uni uzh\\FS25\\conversational speech processing\\mypaper\\Beyond-WER-in-ASR\\data\\eval_results\\Plots"
+dir.create(plot_dir, showWarnings = FALSE)
+```
+
+### Grouped Bar Chart
+```{r}
+# WER
+wer_long <- pivot_longer(
+  wer,
+  cols = c(with_punct, without_punct),
+  names_to = "Condition",
+  values_to = "Score"
+)
+
+plot_wer <- ggplot(wer_long, aes(x = File, y = Score, fill = Condition)) +
+  geom_bar(stat = "identity", position = position_dodge(width = 0.8)) +
+  geom_text(
+    aes(label = sprintf("%.2f", Score)),
+    position = position_dodge(width = 0.8),
+    vjust = -0.3,
+    size = 3.5
+  ) +
+  labs(
+    title = "WER scores per Meeting",
+    y = "WER",
+    x = "Meeting"
+  ) +
+  ylim(0, 100) +  # ensures all labels fit
+  theme_minimal() +
+  theme(legend.title = element_blank())
+ggsave(file.path(plot_dir, "wer_barchart.png"), plot_wer, width = 6, height = 4, dpi = 300)
+plot_wer
+
+# BLEU
+bleu_long <- pivot_longer(
+  bleu,
+  cols = c(with_punct, without_punct),
+  names_to = "Condition",
+  values_to = "Score"
+)
+
+plot_bleu<- ggplot(bleu_long, aes(x = File, y = Score, fill = Condition)) +
+  geom_bar(stat = "identity", position = position_dodge(width = 0.8)) +
+  geom_text(
+    aes(label = sprintf("%.2f", Score)),
+    position = position_dodge(width = 0.8),
+    vjust = -0.3,
+    size = 3.5
+  ) +
+  labs(
+    title = "BLEU scores per Meeting",
+    y = "BLEU",
+    x = "Meeting"
+  ) +
+  ylim(0, 100) +  # ensures all labels fit
+  theme_minimal() +
+  theme(legend.title = element_blank())
+ggsave(file.path(plot_dir, "bleue_barchart.png"), plot_bleu, width = 6, height = 4, dpi = 300)
+plot_bleu
+
+# ROUGE-1
+rouge_long_1 <- pivot_longer(
+  rouge1,
+  cols = c(with_punct, without_punct),
+  names_to = "Condition",
+  values_to = "Score"
+)
+
+plot_rouge1 <- ggplot(rouge_long_1, aes(x = File, y = Score, fill = Condition)) +
+  geom_bar(stat = "identity", position = position_dodge(width = 0.8)) +
+  geom_text(
+    aes(label = sprintf("%.2f", Score)),
+    position = position_dodge(width = 0.8),
+    vjust = -0.3,
+    size = 3.5
+  ) +
+  labs(
+    title = "ROUGE-1 scores per Meeting",
+    y = "ROUGE-1",
+    x = "Meeting"
+  ) +
+  ylim(0, 100) +  # ensures all labels fit
+  theme_minimal() +
+  theme(legend.title = element_blank())
+ggsave(file.path(plot_dir, "rouge1_barchart.png"), plot_rouge1, width = 6, height = 4, dpi = 300)
+plot_rouge1
+
+# ROUGE-L
+rouge_long_l <- pivot_longer(
+  rougel,
+  cols = c(with_punct, without_punct),
+  names_to = "Condition",
+  values_to = "Score"
+)
+
+plot_rougel <- ggplot(rouge_long_l, aes(x = File, y = Score, fill = Condition)) +
+  geom_bar(stat = "identity", position = position_dodge(width = 0.8)) +
+  geom_text(
+    aes(label = sprintf("%.2f", Score)),
+    position = position_dodge(width = 0.8),
+    vjust = -0.3,
+    size = 3.5
+  ) +
+  labs(
+    title = "ROUGE-L scores per Meeting",
+    y = "ROUGE-L",
+    x = "Meeting"
+  ) +
+  ylim(0, 100) +  # ensures all labels fit
+  theme_minimal() +
+  theme(legend.title = element_blank())
+ggsave(file.path(plot_dir, "rougel_barchart.png"), plot_rougel, width = 6, height = 4, dpi = 300)
+plot_rougel
+
+# BERTScore
+bertscore_long <- pivot_longer(
+  bertscore,
+  cols = c(with_punct, without_punct),
+  names_to = "Condition",
+  values_to = "Score"
+)
+
+# Plot with value labels
+plot_bertscore <- ggplot(bertscore_long, aes(x = File, y = Score, fill = Condition)) +
+  geom_bar(stat = "identity", position = position_dodge(width = 0.8)) +
+  geom_text(
+    aes(label = sprintf("%.2f", Score)),
+    position = position_dodge(width = 0.8),
+    vjust = -0.3,
+    size = 3.5
+  ) +
+  labs(
+    title = "BERTScore F1 per Meeting",
+    y = "BERTScore F1",
+    x = "Meeting"
+  ) +
+  ylim(0, 100) +  # ensures all labels fit
+  theme_minimal() +
+  theme(legend.title = element_blank())
+ggsave(file.path(plot_dir, "bertscore_barchart.png"), plot_bertscore, width = 6, height = 4, dpi = 300)
+plot_bertscore
+
+```
+
+### Line Plots
+```{r}
+line_wer <- ggplot(wer_long, aes(x = File, y = Score, group = Condition, color = Condition)) +
+  geom_line() +
+  geom_point(size = 3) +
+  labs(title = "WER per Meeting", y = "WER", x = "Meeting") +
+  theme_minimal()
+ggsave(file.path(plot_dir, "wer_lineplot.png"), line_wer, width = 6, height = 4, dpi = 300)
+line_wer
+
+
+line_bleu <- ggplot(bleu_long, aes(x = File, y = Score, group = Condition, color = Condition)) +
+  geom_line() +
+  geom_point(size = 3) +
+  labs(title = "BLEU Score per Meeting", y = "BLEU", x = "Meeting") +
+  theme_minimal()
+ggsave(file.path(plot_dir, "bleu_lineplot.png"), line_bleu, width = 6, height = 4, dpi = 300)
+line_bleu
+
+
+line_rouge1 <- ggplot(rouge_long_1, aes(x = File, y = Score, group = Condition, color = Condition)) +
+  geom_line() +
+  geom_point(size = 3) +
+  labs(title = "ROUGE-1 Score per Meeting", y = "ROUGE-1", x = "Meeting") +
+  theme_minimal()
+ggsave(file.path(plot_dir, "rouge1_lineplot.png"), line_rouge1, width = 6, height = 4, dpi = 300)
+line_rouge1
+
+
+line_rougel <- ggplot(rouge_long_l, aes(x = File, y = Score, group = Condition, color = Condition)) +
+  geom_line() +
+  geom_point(size = 3) +
+  labs(title = "ROUGE-L Score per Meeting", y = "ROUGE-L", x = "Meeting") +
+  theme_minimal()
+ggsave(file.path(plot_dir, "rougel_lineplot.png"), line_rougel, width = 6, height = 4, dpi = 300)
+line_rougel
+
+
+line_bertscore <- ggplot(bertscore_long, aes(x = File, y = Score, group = Condition, color = Condition)) +
+  geom_line() +
+  geom_point(size = 3) +
+  labs(title = "BERTScore F1 per Meeting", y = "BERTScore F1", x = "Meeting") +
+  theme_minimal()
+ggsave(file.path(plot_dir, "bertscore_lineplot.png"), line_bertscore, width = 6, height = 4, dpi = 300)
+line_bertscore
+```
+
+
+### Superficial Metrics in 1 image
+```{r}
+library(stringr)
+```
+
+```{r}
+wer_long_short <- wer_long %>%
+  mutate(File = paste0(str_sub(File, 2, 2), "-", str_sub(File, -1, -1)))
+
+bleu_long_short <- bleu_long %>%
+  mutate(File = paste0(str_sub(File, 2, 2), "-", str_sub(File, -1, -1)))
+
+rouge_long_1_short <- rouge_long_1 %>%
+  mutate(File = paste0(str_sub(File, 2, 2), "-", str_sub(File, -1, -1)))
+
+rouge_long_l_short <- rouge_long_l %>%
+  mutate(File = paste0(str_sub(File, 2, 2), "-", str_sub(File, -1, -1)))
+
+bertscore_long_short <- bertscore_long %>%
+  mutate(File = paste0(str_sub(File, 2, 2), "-", str_sub(File, -1, -1)))
+
+```
+
+```{r}
+# WER
+
+p_wer <- ggplot(wer_long_short, aes(x = File, y = Score, group = Condition, color = Condition)) +
+  geom_line() +
+  geom_point(size = 3) +
+  labs(title = "WER per Meeting", y = "WER", x = "") +
+  theme_minimal()
+
+# BLEU
+p_bleu <- ggplot(bleu_long_short, aes(x = File, y = Score, group = Condition, color = Condition)) +
+  geom_line() +
+  geom_point(size = 3) +
+  labs(title = "BLEU per Meeting", y = "BLEU", x = "") +
+  theme_minimal()
+
+# ROUGE-1
+p_rouge1 <- ggplot(rouge_long_1_short, aes(x = File, y = Score, group = Condition, color = Condition)) +
+  geom_line() +
+  geom_point(size = 3) +
+  labs(title = "ROUGE-1 per Meeting", y = "ROUGE-1", x = "") +
+  theme_minimal()
+
+# ROUGE-L
+p_rougel <- ggplot(rouge_long_l_short, aes(x = File, y = Score, group = Condition, color = Condition)) +
+  geom_line() +
+  geom_point(size = 3) +
+  labs(title = "ROUGE-L per Meeting", y = "ROUGE-l", x = "") +
+  theme_minimal()
+
+p_bertscore <- ggplot(bertscore_long_short, aes(x = File, y = Score, group = Condition, color = Condition)) +
+  geom_line() +
+  geom_point(size = 3) +
+  labs(title = "BERTScore per Meeting", y = "BERTScore", x = "") +
+  theme_minimal()
+```
+
+```{r}
+plot_grid_4 <- (p_wer | p_bleu) /
+               (p_rouge1 | p_rougel)
+ggsave(file.path(plot_dir, "superficial_metrics.png"), plot_grid_4, width = 10, height = 6, dpi = 300)
+```
+
+```{r}
+plot_grid_5 <- (p_wer | p_bleu) /
+               (p_rouge1 | p_rougel) /
+               (p_bertscore | plot_spacer())
+ggsave(file.path(plot_dir, "all_metrics.png"), plot_grid_5, width = 10, height = 6, dpi = 300)
+
+```
+
+
+```{r}
+plot_wer_s <- ggplot(wer_long_short, aes(x = File, y = Score, fill = Condition)) +
+  geom_bar(stat = "identity", position = position_dodge(width = 0.8)) +
+  labs(
+    title = "WER scores per Meeting",
+    y = "WER",
+    x = ""
+  ) +
+  ylim(0, 100) +  # ensures all labels fit
+  theme_minimal() +
+  theme(legend.title = element_blank())
+
+plot_bleu_s<- ggplot(bleu_long_short, aes(x = File, y = Score, fill = Condition)) +
+  geom_bar(stat = "identity", position = position_dodge(width = 0.8)) +
+  labs(
+    title = "BLEU scores per Meeting",
+    y = "BLEU",
+    x = ""
+  ) +
+  ylim(0, 100) +  # ensures all labels fit
+  theme_minimal() +
+  theme(legend.title = element_blank())
+
+plot_rouge1_s <- ggplot(rouge_long_1_short, aes(x = File, y = Score, fill = Condition)) +
+  geom_bar(stat = "identity", position = position_dodge(width = 0.8)) +
+  labs(
+    title = "ROUGE-1 scores per Meeting",
+    y = "ROUGE-1",
+    x = "Meeting"
+  ) +
+  ylim(0, 100) +  # ensures all labels fit
+  theme_minimal() +
+  theme(legend.title = element_blank())
+
+plot_rougel_s <- ggplot(rouge_long_l_short, aes(x = File, y = Score, fill = Condition)) +
+  geom_bar(stat = "identity", position = position_dodge(width = 0.8)) +
+  labs(
+    title = "ROUGE-L scores per Meeting",
+    y = "ROUGE-L",
+    x = ""
+  ) +
+  ylim(0, 100) +  # ensures all labels fit
+  theme_minimal() +
+  theme(legend.title = element_blank())
+
+plot_bertscore_s <- ggplot(bertscore_long_short, aes(x = File, y = Score, fill = Condition)) +
+  geom_bar(stat = "identity", position = position_dodge(width = 0.8)) +
+  labs(
+    title = "BERTScore F1 per Meeting",
+    y = "BERTScore F1",
+    x = ""
+  ) +
+  ylim(0, 100) +  # ensures all labels fit
+  theme_minimal() +
+  theme(legend.title = element_blank())
+```
+
+```{r}
+plot_bar_4 <- (plot_wer_s | plot_bleu_s) /
+               (plot_rouge1_s | plot_rougel_s)
+ggsave(file.path(plot_dir, "bar_superficial_metrics.png"), plot_bar_4, width = 10, height = 6, dpi = 300)
+```
+
+```{r}
+plot_bar_5 <- (plot_wer_s | plot_bleu_s) /
+               (plot_rouge1_s | plot_rougel_s) /
+               (plot_bertscore_s | plot_spacer())
+ggsave(file.path(plot_dir, "bar_all_metrics.png"), plot_bar_5, width = 10, height = 6, dpi = 300)
+```
+
+----------------------------------------------------------------------------------------------------
+## Statistical Testing for Difference
+To assess whether punctuation and meeting type have a statistically significant effect on the metrics, we conduct two sets of tests:
+1. Between conditions: with punctuation vs without punctuation
+2. Between meeting types: scenario-based (scripted) vs natural speech (unscripted)
+
+Given the small sample size (n = 6 meetings), the results must be interpreted with caution. Small samples increase the risk of both Type I and Type II errors and limit the generalizability of findings. To determine the appropriate statistical test, we first assess whether the normality assumption holds by applying the Shapiro–Wilk test and inspecting QQ plots. If the differences appear approximately normal, we proceed with parametric tests: the paired t-test for comparisons between conditions and the independent t-test for comparisons between meeting types (scenario vs. natural). If normality is violated, we instead use the corresponding non-parametric alternatives: the Wilcoxon signed-rank test for paired comparisons, and the Wilcoxon rank-sum test (Mann–Whitney U) for independent group comparisons.
+
+These are the hypotheses for testing between conditions:
+- Null Hypothesis: There is no difference in the metric score between the 2 conditions
+- Alternative Hypothesis: There is a difference in the metric score between the 2 conditions
+These are the hypotheses for testing between meeting types:
+- Null Hypothesis: The mean of the metric score is the same for scenario and natural speech meetings
+- Alternative Hypothesis: The metric score has a significant difference between the two types
+All the tests are evaluated at an significance level of alpha = 5%.
+
+### WER
+#### Testing between Conditions
+##### Testing normality:
+```{r}
+wer$diff <- wer$with_punct - wer$without_punct
+
+shapiro_test <- shapiro.test(wer$diff)
+print(shapiro_test)
+
+
+qqnorm(wer$diff,
+       main = "Q-Q Plot",
+       xlab = "Theoretical Quantiles",
+       ylab = "Sample Quantiles")
+
+qqline(wer$diff, col = "red", lwd = 2)
+```
+As the p-value is greater than alpha, we fail to reject the Null Hypothesis. This means, normality can be assumed. This is supported by the QQ plot as there are no strong outliers or curvatures present.
+Therefore, we can proceed with the paired t-test:
+
+##### Paired t-test:
+```{r}
+t.test(wer$with_punct, wer$without_punct, paired = TRUE)
+```
+As the p-value is smaller than alpha, we can reject the Null Hypothesis. There IS a statistically difference between WER scores with and without punctuation.
+
+#### Testing between Meeting types
+##### Checking normality:
+Since the sample size must be at least of size 3 for this test, we can only test it for the meeting type "scenario".
+```{r}
+wer$Type <- ifelse(grepl("^ES", wer$File), "scenario", "natural")
+
+shapiro.test(wer$with_punct[wer$Type == "scenario"])
+shapiro.test(wer$without_punct[wer$Type == "scenario"])
+
+qqnorm(wer$with_punct[wer$Type == "scenario"])
+qqline(wer$with_punct[wer$Type == "scenario"], col = "red")
+```
+For both cases, with and without punctuation, the normality is not violated as shown in the results. The p-value is larger than alpha, therefore, we fail to reject the Null Hypothesis.
+Therefore we will go ahead with the independent samples t-test:
+```{r}
+# for with punctuation
+t.test(with_punct ~ Type, data = wer)
+```
+
+```{r}
+# for without punctuation
+t.test(without_punct ~ Type, data = wer)
+```
+As the p-values are greater than alpha, we fail to reject the null hypothesis in both cases. There is no statistically significant difference in WER scores between natural and scenario meetings with punctuation or without it. This result should be taken with caution, as the natural group only contained 2 samples. Therefore, the results do not hold much power.
+
+
+### BLEU
+#### Testing between Conditions
+##### Checking normality:
+```{r}
+bleu$diff <- bleu$with_punct - bleu$without_punct
+
+shapiro_test <- shapiro.test(bleu$diff)
+print(shapiro_test)
+
+
+qqnorm(bleu$diff,
+       main = "Q-Q Plot",
+       xlab = "Theoretical Quantiles",
+       ylab = "Sample Quantiles")
+
+qqline(bleu$diff, col = "red", lwd = 2)
+
+```
+As the p-value is greater than alpha, we fail to reject the Null Hypothesis. This means, normality can be assumed. This is supported by the QQ plot as there are no strong outliers or curvatures present.
+Therefore, we can proceed with the paired t-test:
+##### Paired t-test:
+```{r}
+t.test(bleu$with_punct, bleu$without_punct, paired = TRUE)
+```
+As the p-value is smaller than alpha, we can reject the Null Hypothesis. There IS a statistically difference between BLEU scores with and without punctuation.
+
+#### Testing between Meeting types
+##### Checking normality:
+Since the sample size must be at least of size 3 for this test, we can only test it for the meeting type "scenario".
+```{r}
+bleu$Type <- ifelse(grepl("^ES", bleu$File), "scenario", "natural")
+
+shapiro.test(bleu$with_punct[bleu$Type == "scenario"])
+shapiro.test(bleu$without_punct[bleu$Type == "scenario"])
+
+qqnorm(bleu$with_punct[bleu$Type == "scenario"])
+qqline(bleu$with_punct[bleu$Type == "scenario"], col = "red")
+```
+For both cases, with and without punctuation, the normality is not violated as shown in the results. The p-value is larger than alpha, therefore, we fail to reject the Null Hypothesis.
+Therefore we will go ahead with the independent samples t-test:
+```{r}
+# for with punctuation
+t.test(with_punct ~ Type, data = wer)
+```
+
+```{r}
+# for without punctuation
+t.test(without_punct ~ Type, data = wer)
+```
+As the p-values are greater than alpha, we fail to reject the null hypothesis in both cases. There is no statistically significant difference in BLEU scores between natural and scenario meetings with punctuation or without it. This result should be taken with caution, as the natural group only contained 2 samples. Therefore, the results do not hold much power.
+
+
+### ROUGE-1
+#### Testing between Conditions
+##### Checking normality:
+```{r}
+rouge1$diff <- rouge1$with_punct - rouge1$without_punct
+
+shapiro_test <- shapiro.test(rouge1$diff)
+print(shapiro_test)
+
+
+qqnorm(rouge1$diff,
+       main = "Q-Q Plot",
+       xlab = "Theoretical Quantiles",
+       ylab = "Sample Quantiles")
+
+qqline(rouge1$diff, col = "red", lwd = 2)
+```
+As the p-value is greater than alpha, we fail to reject the Null Hypothesis. This means, normality can be assumed. This is supported by the QQ plot as there are no strong outliers or curvatures present.
+Therefore, we can proceed with the paired t-test:
+##### Paired t-test:
+```{r}
+t.test(rouge1$with_punct, rouge1$without_punct, paired = TRUE)
+```
+As the p-value is smaller than alpha, we can reject the Null Hypothesis. There IS a statistically difference between ROUGE1 scores with and without punctuation. As the p-value is not that much smaller though, and the sample size is quite small, this result does not hold much power.
+
+#### Testing between Meeting types
+##### Checking normality:
+Since the sample size must be at least of size 3 for this test, we can only test it for the meeting type "scenario".
+```{r}
+rouge1$Type <- ifelse(grepl("^ES", rouge1$File), "scenario", "natural")
+
+shapiro.test(rouge1$with_punct[rouge1$Type == "scenario"])
+shapiro.test(rouge1$without_punct[rouge1$Type == "scenario"])
+
+qqnorm(rouge1$with_punct[rouge1$Type == "scenario"])
+qqline(rouge1$with_punct[rouge1$Type == "scenario"], col = "red")
+```
+For both cases, with and without punctuation, the normality is not violated as shown in the results. The p-value is larger than alpha, therefore, we fail to reject the Null Hypothesis.
+Therefore we will go ahead with the independent samples t-test:
+```{r}
+# for with punctuation
+t.test(with_punct ~ Type, data = rouge1)
+```
+
+```{r}
+# for without punctuation
+t.test(without_punct ~ Type, data = rouge1)
+```
+As the p-values are greater than alpha, we fail to reject the null hypothesis in both cases. There is no statistically significant difference in WER scores between natural and scenario meetings with punctuation or without it. This result should be taken with caution, as the natural group only contained 2 samples. Therefore, the results do not hold much power.
+
+----------------------------------------------------------------------------------------------------
+
+### ROUGE-L
+#### Testing between Conditions
+##### Checking normality:
+```{r}
+rougel$diff <- rougel$with_punct - rougel$without_punct
+
+shapiro_test <- shapiro.test(rougel$diff)
+print(shapiro_test)
+
+
+qqnorm(rougel$diff,
+       main = "Q-Q Plot",
+       xlab = "Theoretical Quantiles",
+       ylab = "Sample Quantiles")
+
+qqline(rougel$diff, col = "red", lwd = 2)
+```
+As the p-value is greater than alpha, we fail to reject the Null Hypothesis. This means, normality can be assumed. The QQ plot does contain one outlier compared to the other datasets. This should be kept in mind.
+We proceed with the paired t-test:
+##### Paired t-test:
+```{r}
+t.test(rougel$with_punct, rougel$without_punct, paired = TRUE)
+```
+As the p-value is greater than alpha, we fail to reject the Null Hypothesis. There is NOT a statistically difference between ROUGE-L scores with and without punctuation.
+
+
+#### Testing between Meeting types
+##### Checking normality:
+Since the sample size must be at least of size 3 for this test, we can only test it for the meeting type "scenario".
+```{r}
+rougel$Type <- ifelse(grepl("^ES", rougel$File), "scenario", "natural")
+
+shapiro.test(rougel$with_punct[rougel$Type == "scenario"])
+shapiro.test(rougel$without_punct[rougel$Type == "scenario"])
+
+qqnorm(rougel$with_punct[rougel$Type == "scenario"])
+qqline(rougel$with_punct[rougel$Type == "scenario"], col = "red")
+```
+For both cases, with and without punctuation, the normality is not violated as shown in the results. In the QQ-plot we can notice one stronger outlier. The p-value is larger than alpha, therefore, we fail to reject the Null Hypothesis.
+Therefore we will go ahead with the independent samples t-test:
+```{r}
+# for with punctuation
+t.test(with_punct ~ Type, data = rougel)
+```
+
+```{r}
+# for without punctuation
+t.test(without_punct ~ Type, data = rougel)
+```
+As the p-values are greater than alpha, we fail to reject the null hypothesis in both cases. There is no statistically significant difference in WER scores between natural and scenario meetings with punctuation or without it. This result should be taken with caution, as the natural group only contained 2 samples. Therefore, the results do not hold much power.
+
+----------------------------------------------------------------------------------------------------
+
+### BERTScore
+#### Testing between Conditions
+##### Checking normality:
+```{r}
+bertscore$diff <- bertscore$with_punct - bertscore$without_punct
+
+shapiro_test <- shapiro.test(bertscore$diff)
+print(shapiro_test)
+
+
+qqnorm(bertscore$diff,
+       main = "Q-Q Plot",
+       xlab = "Theoretical Quantiles",
+       ylab = "Sample Quantiles")
+
+qqline(bertscore$diff, col = "red", lwd = 2)
+```
+As the p-value is greater than alpha, we fail to reject the Null Hypothesis. This means, normality can be assumed. This is supported by the QQ plot as there are no curvatures present. There seems to be one stronger outlier, which is taken notice of.
+
+Therefore, we can proceed with the paired t-test:
+##### Paired t-test:
+```{r}
+t.test(bertscore$with_punct, bertscore$without_punct, paired = TRUE)
+```
+As the p-value is much smaller than alpha, we can reject the Null Hypothesis. There IS a statistically difference between BERTSCORE F1 scores with and without punctuation.
+
+#### Testing between Meeting types
+##### Checking normality:
+Since the sample size must be at least of size 3 for this test, we can only test it for the meeting type "scenario".
+```{r}
+bertscore$Type <- ifelse(grepl("^ES", bertscore$File), "scenario", "natural")
+
+shapiro.test(bertscore$with_punct[bertscore$Type == "scenario"])
+shapiro.test(bertscore$without_punct[bertscore$Type == "scenario"])
+
+qqnorm(bertscore$with_punct[bertscore$Type == "scenario"])
+qqline(bertscore$with_punct[bertscore$Type == "scenario"], col = "red")
+```
+For both cases, with and without punctuation, the normality seems to be not violated as shown in the results. Once again, we take notice of one stronger outlier. The p-value is larger than alpha, therefore, we fail to reject the Null Hypothesis.
+Therefore we will go ahead with the independent samples t-test:
+```{r}
+# for with punctuation
+t.test(with_punct ~ Type, data = bertscore)
+```
+
+```{r}
+# for without punctuation
+t.test(without_punct ~ Type, data = bertscore)
+```
+As the p-values are greater than alpha, we fail to reject the null hypothesis in both cases. There is no statistically significant difference in WER scores between natural and scenario meetings with punctuation or without it. This result should be taken with caution, as the natural group only contained 2 samples. Therefore, the results do not hold much power.
