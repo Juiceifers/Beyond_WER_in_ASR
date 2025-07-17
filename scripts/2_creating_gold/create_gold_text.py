@@ -3,7 +3,7 @@ import json
 from lxml import etree
 from tqdm import tqdm
 
-#for ES2016a-d
+
 MEETINGS_ES = ["ES2016a", "ES2016b", "ES2016c", "ES2016d"]
 
 SEGMENT_PATHS_ES = {
@@ -19,7 +19,6 @@ WORDS_PATHS_ES = {
     "ES2016d": r"C:\Users\babus\OneDrive\Documents\uni uzh\FS25\conversational speech processing\mypaper\Beyond-WER-in-ASR\data\manual_annotations\merged\scenario\words\ES2016d.words.xml",
 }
 
-# for EN2009c-d
 MEETINGS_EN = ["EN2009c", "EN2009d"]
 SEGMENT_PATHS_EN = {
     "EN2009c": r"C:\Users\babus\OneDrive\Documents\uni uzh\FS25\conversational speech processing\mypaper\Beyond-WER-in-ASR\data\amicorpus\ami_annotations\merged\natural\segments\EN2009c.segments.xml",
@@ -33,6 +32,8 @@ WORDS_PATHS_EN = {
 
 OUTPUT_DIR_EN = r"C:\Users\babus\OneDrive\Documents\uni uzh\FS25\conversational speech processing\mypaper\Beyond-WER-in-ASR\data\gold_scripts\transcripts\natural"
 OUTPUT_DIR_ES = r"C:\Users\babus\OneDrive\Documents\uni uzh\FS25\conversational speech processing\mypaper\Beyond-WER-in-ASR\data\gold_scripts\transcripts\scenario"
+
+
 def parse_segments(path):
     tree = etree.parse(path)
     root = tree.getroot()
@@ -77,34 +78,31 @@ def align_words_to_segments(segments, words):
         })
     return transcripts
 
-# SCENARIO
-for meeting_id in tqdm(MEETINGS_ES):
-    segments = parse_segments(SEGMENT_PATHS_ES[meeting_id])
-    words = parse_words(WORDS_PATHS_ES[meeting_id])
-    aligned = align_words_to_segments(segments, words)
+def generate_gold_transcripts(meetings, seg_paths, word_paths, output_dir):
+    os.makedirs(output_dir, exist_ok=True)
 
-    output_path = os.path.join(OUTPUT_DIR_ES, f"gold_references_{meeting_id}.jsonl")
-    with open(output_path, "w", encoding="utf-8") as outfile:
-        for entry in aligned:
-            entry["meeting_id"] = meeting_id
-            json.dump(entry, outfile)
-            outfile.write("\n")
+    for meeting_id in tqdm(meetings, desc=f"Generating gold transcripts in {output_dir}"):
+        segments = parse_segments(seg_paths[meeting_id])
+        words = parse_words(word_paths[meeting_id])
+        aligned = align_words_to_segments(segments, words)
 
-print(f"\n✅ Done! Gold references saved to: {OUTPUT_DIR_ES}\\gold_references_<meeting_id>.jsonl")
+        # Write JSONL: Segment-wise gold references
+        jsonl_path = os.path.join(output_dir, f"gold_references_{meeting_id}.jsonl")
+        with open(jsonl_path, "w", encoding="utf-8") as outfile:
+            for entry in aligned:
+                entry["meeting_id"] = meeting_id
+                json.dump(entry, outfile)
+                outfile.write("\n")
 
-# NATURAL
-for meeting_id in tqdm(MEETINGS_EN):
-    segments = parse_segments(SEGMENT_PATHS_EN[meeting_id])
-    words = parse_words(WORDS_PATHS_EN[meeting_id])
-    aligned = align_words_to_segments(segments, words)
+        # Write TXT: Concatenated full gold reference
+        full_text = "\n".join(entry["reference"] for entry in aligned if entry["reference"].strip())
+        txt_path = os.path.join(output_dir, f"{meeting_id}.gold.txt")
+        with open(txt_path, "w", encoding="utf-8") as txtfile:
+            txtfile.write(full_text)
 
-    output_path = os.path.join(OUTPUT_DIR_EN, f"gold_references_{meeting_id}.jsonl")
-    with open(output_path, "w", encoding="utf-8") as outfile:
-        for entry in aligned:
-            entry["meeting_id"] = meeting_id
-            json.dump(entry, outfile)
-            outfile.write("\n")
+    print(f"✅ Done! JSONL and TXT files saved in: {output_dir}")
 
-    
 
-print(f"\n✅ Done! Gold references saved to: {OUTPUT_DIR_EN}\\gold_references_<meeting_id>.jsonl")
+
+generate_gold_transcripts(MEETINGS_ES, SEGMENT_PATHS_ES, WORDS_PATHS_ES, OUTPUT_DIR_ES)
+generate_gold_transcripts(MEETINGS_EN, SEGMENT_PATHS_EN, WORDS_PATHS_EN, OUTPUT_DIR_EN)
