@@ -19,8 +19,6 @@ The project uses the AMI Meeting Corpus and Whisper-generated transcripts, compa
 ## Folder Structure
 
 ```plaintext
-## 📁 Folder Structure
-
 Beyond-WER-in-ASR/
 │
 ├── data/
